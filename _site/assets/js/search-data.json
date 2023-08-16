@@ -91,22 +91,22 @@
     "relUrl": "/calendar/"
   },"13": {
     "doc": "Calendar",
-    "title": "2023 AC215",
-    "content": " ",
-    "url": "/calendar/#2023-ac215",
+    "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
+    "content": "Sep 05 Introduction Lecture 1 Sep 07 DemoVirtual Environments and Virtual Machines Lecture 2 ",
+    "url": "/calendar/#week-1-introduction-virtual-environments-and-virtual-machines",
     
-    "relUrl": "/calendar/#2023-ac215"
+    "relUrl": "/calendar/#week-1-introduction-virtual-environments-and-virtual-machines"
   },"14": {
     "doc": "Calendar",
-    "title": "2023-AC215",
+    "title": "Week 2 - Topic",
     "content": " ",
-    "url": "/calendar/#2023-ac215",
+    "url": "/calendar/#week-2-topic",
     
-    "relUrl": "/calendar/#2023-ac215"
+    "relUrl": "/calendar/#week-2-topic"
   },"15": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
-    "content": " ",
+    "content": "&lt;!DOCTYPE html&gt;&lt;html lang=\"en-US\"&gt;&lt;head&gt; | Schedule | AC215, CSCIE-115 | &lt;body&gt; Skip to main content Link . Menu | | | Expand . (external link) . | Document . Search | Copy . Copied . &lt;div class=\"side-bar\"&gt;&lt;div class=\"site-header\" role=\"banner\"&gt; AC215, CSCIE-115 &lt;/a&gt;&lt;/div&gt;&lt;nav aria-label=\"Main\" id=\"site-nav\" class=\"site-nav\"&gt;&lt;ul class=\"nav-list\"&gt;&lt;li class=\"nav-list-item\"&gt;Calendar&lt;li class=\"nav-list-item\"&gt;Schedule&lt;li class=\"nav-list-item\"&gt;Staff&lt;/ul&gt;&lt;/nav&gt;&lt;footer class=\"site-footer\"&gt; This site uses Just the Docs, a documentation theme for Jekyll.&lt;/footer&gt;&lt;/div&gt;&lt;div class=\"main\" id=\"top\"&gt;&lt;div id=\"main-header\" class=\"main-header\"&gt;&lt;div class=\"search\" role=\"search\"&gt;&lt;div class=\"search-input-wrap\"&gt; &lt;/div&gt;&lt;div id=\"search-results\" class=\"search-results\"&gt;&lt;/div&gt;&lt;/div&gt;&lt;nav aria-label=\"Auxiliary\" class=\"aux-nav\"&gt;&lt;ul class=\"aux-nav-list\"&gt;&lt;li class=\"aux-nav-list-item\"&gt; Canvas &lt;li class=\"aux-nav-list-item\"&gt; AC215, CSCIE-115 on GitHub &lt;/ul&gt;&lt;/nav&gt;&lt;/div&gt;&lt;div id=\"main-content-wrap\" class=\"main-content-wrap\"&gt;&lt;div id=\"main-content\" class=\"main-content\"&gt;&lt;main&gt;&lt;h1 id=\"weekly-schedule\"&gt; Weekly Schedule&lt;/h1&gt;&lt;h1 id=\"weekly-schedule-1\"&gt; Weekly Schedule&lt;/h1&gt;&lt;p&gt;{% for schedule in site.schedules %} {{ schedule }} {% endfor %}&lt;/p&gt;&lt;/main&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\"search-overlay\"&gt;&lt;/div&gt;&lt;/div&gt; . ",
     "url": "/schedule/#weekly-schedule",
     
     "relUrl": "/schedule/#weekly-schedule"
