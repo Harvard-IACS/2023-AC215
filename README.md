@@ -106,9 +106,12 @@ To ensure a seamless learning experience and to make the most of this course, pa
    It's important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you're not an expert in all of the prerequisites, a willingness to learn and engage actively in the course's hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding.
    ​
 
-## Lecture
+## Lectures
 
-Date Time 
+**Tuesday 03:45 PM - 05:00 PM**
+
+
+**Thursday 03:45 PM - 05:00 PM**
 
 ## Resources
 

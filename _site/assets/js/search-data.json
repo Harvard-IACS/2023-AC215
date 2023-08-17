@@ -8,7 +8,7 @@
   },"1": {
     "doc": "AC215, CSCIE-115",
     "title": "Table of contents",
-    "content": ". | Course Topics Overview | Course Introduction | Prerequisites | Lecture | Resources | Course Components | Course Policies | . ",
+    "content": ". | Course Topics Overview | Course Introduction | Prerequisites | Lectures | Resources | Course Components | Course Policies | . ",
     "url": "/#table-of-contents",
     
     "relUrl": "/#table-of-contents"
@@ -35,11 +35,11 @@
     "relUrl": "/#prerequisites"
   },"5": {
     "doc": "AC215, CSCIE-115",
-    "title": "Lecture",
-    "content": "Date Time . ",
-    "url": "/#lecture",
+    "title": "Lectures",
+    "content": "Tuesday 03:45 PM - 05:00 PM . Thursday 03:45 PM - 05:00 PM . ",
+    "url": "/#lectures",
     
-    "relUrl": "/#lecture"
+    "relUrl": "/#lectures"
   },"6": {
     "doc": "AC215, CSCIE-115",
     "title": "Resources",
@@ -118,18 +118,39 @@
     
     "relUrl": "/schedule/"
   },"17": {
-    "doc": "Staff",
+    "doc": "Staff / Contact",
     "title": "Staff",
-    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "content": " ",
+    "url": "/staff/#staff",
+    
+    "relUrl": "/staff/#staff"
+  },"18": {
+    "doc": "Staff / Contact",
+    "title": "Instructor",
+    "content": "Pavlos Protopapas . ",
+    "url": "/staff/#instructor",
+    
+    "relUrl": "/staff/#instructor"
+  },"19": {
+    "doc": "Staff / Contact",
+    "title": "Course Staff",
+    "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Shivas Jayaram . ",
+    "url": "/staff/#course-staff",
+    
+    "relUrl": "/staff/#course-staff"
+  },"20": {
+    "doc": "Staff / Contact",
+    "title": "Contact",
+    "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
+    "url": "/staff/#contact",
+    
+    "relUrl": "/staff/#contact"
+  },"21": {
+    "doc": "Staff / Contact",
+    "title": "Staff / Contact",
+    "content": " ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"18": {
-    "doc": "Staff",
-    "title": "Instructors",
-    "content": " ",
-    "url": "/staff/#instructors",
-    
-    "relUrl": "/staff/#instructors"
   }
 }
