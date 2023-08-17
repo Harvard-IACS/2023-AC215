@@ -38,37 +38,34 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 3. **Containers:** 
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
    ​
-4. **Cloud Functions:** 
-   - Explore serverless architectures, focusing on platforms like GCP Cloud functions (AWS Lambda's equivalent), ensuring efficient model deployment without managing server infrastructures.
-   ​
-5. **Data Pipelines, Dask, & Cloud Storage:** 
+4. **Data Pipelines, Dask, & Cloud Storage:** 
    - Learn to create efficient data workflows, use Dask for parallel computing, and understand how cloud storage solutions fit into the MLOps ecosystem.
    ​
-6. **TF Data and TF Records:** 
+5. **TF Data and TF Records:** 
    - Dive into TensorFlow-specific methods for data ingestion and management, ensuring efficient data preprocessing and storage for your models.
    ​
-7. **Data Parallelization:** 
+6. **Data Parallelization:** 
    - Grasp techniques for distributing data processing tasks across multiple processors or nodes.
    ​
-8. **Data Versioning:** 
+7. **Data Versioning:** 
    - Explore tools like Pachyderm, and understand the significance of maintaining different versions of datasets for reproducibility and model training.
    ​
-9. **Advanced Training Workflows:** 
+8. **Advanced Training Workflows:** 
    - Deep dive into experiment tracking using tools like Weights & Biases, and harness the power of multi-GPU setups for faster model training.
    ​
-10. **Advanced Inference Workflows:** 
+9. **Advanced Inference Workflows:** 
    - Understand the nuances of model optimization techniques like Distillation, Quantization, and Compression. Explore TensorFlow Lite, monitor your models post-deployment, and be prepared for challenges like data drift.
 ​
-11. **Pipeline:** 
+10. **Pipeline:** 
    - Study end-to-end MLOps pipelines, their components, and best practices to ensure smooth model deployments..
 ​
-13. **App Design, Setup, and Code Organization:** 
+11. **App Design, Setup, and Code Organization:** 
    - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
 ​
-14. **APIs & Frontend:** 
+12. **APIs & Frontend:** 
    - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
 ​
-15. **Scaling (k8):** 
+13. **Scaling (k8):** 
    - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
 ​
 
@@ -149,7 +146,7 @@ In the dynamic realm of AI and MLOps, hands-on experience is paramount. This cou
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
 **2. A Guided Demonstration by Pavlos:**
--  We, the teaching team,, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point.
+-  We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point.
   
 - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students a practical insight of course concepts.
   
