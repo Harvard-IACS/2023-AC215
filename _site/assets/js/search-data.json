@@ -169,53 +169,67 @@
   },"24": {
     "doc": "Calendar",
     "title": "Week 3 - Dask, Cloud Storage, TF Data",
-    "content": "Sep 19 Data Pipelines, Dask, Cloud Storage Lecture 5 Sep 21 TF Data and TF Records Lecture 5 ",
+    "content": "Sep 19 Data Pipelines, Dask, Cloud Storage Lecture 5 Sep 21 TF Data and TF Records Lecture 6 ",
     "url": "/calendar/#week-3-dask-cloud-storage-tf-data",
     
     "relUrl": "/calendar/#week-3-dask-cloud-storage-tf-data"
   },"25": {
+    "doc": "Calendar",
+    "title": "Week 4 - Data Parallelization, Versioning",
+    "content": "Sep 26 Data Management: Extract, Transform, Version (e.g: Apache Delta Lake, Pachyderm) Lecture 7 Sep 28 Model Management: (multi gpu, data parallelization) Lecture 8 ",
+    "url": "/calendar/#week-4-data-parallelization-versioning",
+    
+    "relUrl": "/calendar/#week-4-data-parallelization-versioning"
+  },"26": {
+    "doc": "Calendar",
+    "title": "Week 5 - Project",
+    "content": "Sep 19 Project Week Sep 21 Project Week ",
+    "url": "/calendar/#week-5-project",
+    
+    "relUrl": "/calendar/#week-5-project"
+  },"27": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": " ",
     "url": "/schedule/#weekly-schedule",
     
     "relUrl": "/schedule/#weekly-schedule"
-  },"26": {
+  },"28": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"27": {
+  },"29": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"28": {
+  },"30": {
     "doc": "Staff / Contact",
     "title": "Instructor",
     "content": "Pavlos Protopapas . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"29": {
+  },"31": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
     "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Shivas Jayaram . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"30": {
+  },"32": {
     "doc": "Staff / Contact",
     "title": "Contact",
     "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"31": {
+  },"33": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
