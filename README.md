@@ -20,11 +20,16 @@ seo:
 
 ---
 
-## Course Topics Overview
+## 
 
 <span style="color:red">IMPORTANT❗ - Draft more details soon </span>
 ​
 
+## Course Introduction
+
+In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
+
+## Course Topics Overview
 
 We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering:
 ​
@@ -55,28 +60,26 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
    ​
 9. **Advanced Inference Workflows:** 
    - Understand the nuances of model optimization techniques like Distillation, Quantization, and Compression. Explore TensorFlow Lite, monitor your models post-deployment, and be prepared for challenges like data drift.
-​
+   ​
 10. **Pipeline:** 
-   - Study end-to-end MLOps pipelines, their components, and best practices to ensure smooth model deployments..
-​
+       - Study end-to-end MLOps pipelines, their components, and best practices to ensure smooth model deployments..
+    ​
 11. **App Design, Setup, and Code Organization:** 
-   - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
-​
+       - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
+    ​
 12. **APIs & Frontend:** 
-   - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
-​
+       - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
+    ​
 13. **Scaling (k8):** 
-   - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
-​
+       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
+    ​
+
 
 As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you're not just familiar with these concepts, but proficient in applying them.
 ​
 
 
-## Course Introduction
 
-In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
-​
 
 ## Prerequisites 
 
@@ -105,12 +108,8 @@ To ensure a seamless learning experience and to make the most of this course, pa
 
 ## Lectures
 
-**Tuesday 03:45 PM - 05:00 PM**
-
-
-**Thursday 03:45 PM - 05:00 PM**
-
-## Resources
+- **Location:** SEC LL2.224 Lecture Hall
+- **Meeting Time:** Tuesday 03:45 PM - 05:00 PM; Thursday 03:45 PM - 05:00 PM
 
 
 
@@ -120,17 +119,21 @@ To ensure a seamless learning experience and to make the most of this course, pa
   
 - **Office Hours:** Dedicated time with the instructors and TAs for queries and clarifications.
   
-- **Reading Assignments:** Curated readings to supplement lecture material and deepen understanding.
-  
-- **Quizzes:** Short assessments to gauge understanding and reinforce key concepts.
-  
-- **Exercises:** Hands-on tasks and challenges designed to provide practical experience.
-  
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
   
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
-  ​
-  Remember, these components might undergo changes to ensure the best learning experience, so always stay updated with the latest course schedule and announcements.
+  
+  
+  
+- **Reading Assignments:** Curated readings to supplement lecture material and deepen understanding.
+  
+
+<!--- **Quizzes:** Short assessments to gauge understanding and reinforce key concepts. --->
+
+<!--- **Exercises:** Hands-on tasks and challenges designed to provide practical experience.--->
+
+
+Remember, these components might undergo changes to ensure the best learning experience, so always stay updated with the latest course schedule and announcements.
 
 **Team Projects: Project-Based Learning: Crafting Your Own AI Solutions**
 
@@ -166,10 +169,12 @@ The heart of this course is experiential learning. We fervently believe that you
 
 
 1. **Getting Help:**
-   - **ED Forum:** For questions related to exercises, course content, or package installations, post on the ED forum first. This promotes peer learning, as your peers might have faced similar issues. All posts are visible to everyone, and the teaching staff monitors them regularly.
-   - **Office Hours:** Should you need more personalized assistance or deeper clarifications, attending office hours is recommended.
-   - **Email:** For private matters or specific concerns, feel free to directly email the instructor.
-   ​
+
+   - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
+   - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2023@gmail.com.
+   - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
+
 2. **Academic Honesty:**
    - This course places a strong emphasis on ethical behavior. Whether it's ethically handling data or attributing the work of others, students are expected to maintain high standards of integrity.
    - **Acceptable Behaviors:** Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors.
@@ -181,11 +186,28 @@ The heart of this course is experiential learning. We fervently believe that you
    ​
 4. **Collaboration & Teamwork:**
    - Collaboration is encouraged, especially for projects. However, ensure you contribute equally and do not divide tasks in a way that prevents you from understanding all parts of the assignment.
-   
+
 5. **Feedback & Evaluation:**
    - Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Do provide feedback on the course structure, content, and delivery, so we can continually improve.
    ​
-6. **Accessibility & Inclusion:**
-   - We strive to make this course accessible to all. If you have any special needs or require specific accommodations, please reach out to the course administrators at the earliest.
-   ​
-   Students are encouraged to thoroughly understand and abide by these policies. The guiding principle should always be fairness, respect for one's own learning journey, and respect for the learning journey of peers.
+6. **Accessibility:**
+
+   - We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible.
+     
+     Adherence to accessibility policies and a commitment to fairness, respect for your learning journey, and consideration for the learning journey of your peers are expected from all students.
+
+    
+
+7. **Inclusion and Belonging Statement**
+   In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to:
+
+- Advance ethical data science and expose biases in its applications.
+- Encourage a variety of thoughts, perspectives, and experiences.
+- Be a supportive resource, open to understanding and adapting to your unique needs.
+
+To foster inclusion:
+- Please inform us if your name or pronouns differ from official records.
+- If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.
+- Respect and consideration for diverse backgrounds and perspectives are expected from all participants.
+
+Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
