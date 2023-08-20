@@ -20,8 +20,6 @@ seo:
 
 ---
 
-## 
-
 <span style="color:red">IMPORTANT❗ - Draft more details soon </span>
 ​
 
