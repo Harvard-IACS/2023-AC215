@@ -199,13 +199,19 @@ The heart of this course is experiential learning. We fervently believe that you
 7. **Inclusion and Belonging Statement**
    In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to:
 
-- Advance ethical data science and expose biases in its applications.
-- Encourage a variety of thoughts, perspectives, and experiences.
-- Be a supportive resource, open to understanding and adapting to your unique needs.
+   - Advance ethical data science and expose biases in its applications.
+
+   - Encourage a variety of thoughts, perspectives, and experiences.
+
+   - Be a supportive resource, open to understanding and adapting to your unique needs.
+
 
 To foster inclusion:
-- Please inform us if your name or pronouns differ from official records.
-- If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.
-- Respect and consideration for diverse backgrounds and perspectives are expected from all participants.
 
-Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
+   - Please inform us if your name or pronouns differ from official records.
+   
+   - If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.
+   
+   - Respect and consideration for diverse backgrounds and perspectives are expected from all participants.
+
+	Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
