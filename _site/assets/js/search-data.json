@@ -146,57 +146,57 @@
     
     "relUrl": "/announcements/"
   },"21": {
-    "doc": "Calendar",
-    "title": "Calendar",
+    "doc": "Schedule",
+    "title": "Schedule",
     "content": " ",
     "url": "/calendar/",
     
     "relUrl": "/calendar/"
   },"22": {
-    "doc": "Calendar",
+    "doc": "Schedule",
     "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
     "content": "Sep 05 Introduction Lecture 1 Sep 07 DemoVirtual Environments and Virtual Machines Lecture 2 ",
     "url": "/calendar/#week-1-introduction-virtual-environments-and-virtual-machines",
     
     "relUrl": "/calendar/#week-1-introduction-virtual-environments-and-virtual-machines"
   },"23": {
-    "doc": "Calendar",
+    "doc": "Schedule",
     "title": "Week 2 - Containers",
     "content": "Sep 12 Containers I Lecture 3 Sep 14 Containers II Lecture 4 ",
     "url": "/calendar/#week-2-containers",
     
     "relUrl": "/calendar/#week-2-containers"
   },"24": {
-    "doc": "Calendar",
+    "doc": "Schedule",
     "title": "Week 3 - Dask, Cloud Storage, TF Data",
-    "content": "Sep 19 Data Pipelines, Dask, Cloud Storage Lecture 5 Sep 21 TF Data and TF Records Lecture 6 ",
+    "content": "Sep 19 Data Pipelines, Dask, Cloud Storage Lecture 5 M 1 due Sep 21 TF Data and TF Records Lecture 6 ",
     "url": "/calendar/#week-3-dask-cloud-storage-tf-data",
     
     "relUrl": "/calendar/#week-3-dask-cloud-storage-tf-data"
   },"25": {
-    "doc": "Calendar",
+    "doc": "Schedule",
     "title": "Week 4 - Data Parallelization, Versioning",
     "content": "Sep 26 Data Management: Extract, Transform, Version (e.g: Apache Delta Lake, Pachyderm) Lecture 7 Sep 28 Model Management: (multi gpu, data parallelization) Lecture 8 ",
     "url": "/calendar/#week-4-data-parallelization-versioning",
     
     "relUrl": "/calendar/#week-4-data-parallelization-versioning"
   },"26": {
-    "doc": "Calendar",
+    "doc": "Schedule",
     "title": "Week 5 - Project",
     "content": "Sep 19 Project Week Sep 21 Project Week ",
     "url": "/calendar/#week-5-project",
     
     "relUrl": "/calendar/#week-5-project"
   },"27": {
-    "doc": "Schedule",
-    "title": "Weekly Schedule",
-    "content": " ",
-    "url": "/schedule/#weekly-schedule",
+    "doc": "Calender",
+    "title": "Calendar",
+    "content": ". ",
+    "url": "/schedule/#calendar",
     
-    "relUrl": "/schedule/#weekly-schedule"
+    "relUrl": "/schedule/#calendar"
   },"28": {
-    "doc": "Schedule",
-    "title": "Schedule",
+    "doc": "Calender",
+    "title": "Calender",
     "content": " ",
     "url": "/schedule/",
     
