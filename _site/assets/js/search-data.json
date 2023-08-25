@@ -146,90 +146,111 @@
     
     "relUrl": "/calendar/"
   },"21": {
+    "doc": "Milestone 1",
+    "title": "Milestone 1",
+    "content": "Key dates: project proposals due - Sep 14th staff feedback - Sep 19th . ",
+    "url": "/milestone1/",
+    
+    "relUrl": "/milestone1/"
+  },"22": {
+    "doc": "Milestone 2",
+    "title": "Milestone 2",
+    "content": "Milestone 2 . ",
+    "url": "/milestone2/",
+    
+    "relUrl": "/milestone2/"
+  },"23": {
+    "doc": "Milestone 3",
+    "title": "Milestone 3",
+    "content": "Milestone 3 . ",
+    "url": "/milestone3/",
+    
+    "relUrl": "/milestone3/"
+  },"24": {
     "doc": "Projects",
     "title": "Milestones",
     "content": "## For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
     "url": "/projects/#milestones",
     
     "relUrl": "/projects/#milestones"
-  },"22": {
+  },"25": {
     "doc": "Projects",
     "title": "Projects",
     "content": " ",
     "url": "/projects/",
     
     "relUrl": "/projects/"
-  },"23": {
+  },"26": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"24": {
+  },"27": {
     "doc": "Schedule",
     "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
     "content": "Sep 05 Introduction Lecture 1 Sep 07 DemoVirtual Environments and Virtual Machines Lecture 2 ",
     "url": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines",
     
     "relUrl": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines"
-  },"25": {
+  },"28": {
     "doc": "Schedule",
     "title": "Week 2 - Containers",
     "content": "Sep 12 Containers I Lecture 3 Sep 14 Containers II Lecture 4 ",
     "url": "/schedule/#week-2-containers",
     
     "relUrl": "/schedule/#week-2-containers"
-  },"26": {
+  },"29": {
     "doc": "Schedule",
     "title": "Week 3 - Dask, Cloud Storage, TF Data",
     "content": "Sep 19 Data Pipelines, Dask, Cloud Storage Lecture 5 M 1 due Sep 21 TF Data and TF Records Lecture 6 ",
     "url": "/schedule/#week-3-dask-cloud-storage-tf-data",
     
     "relUrl": "/schedule/#week-3-dask-cloud-storage-tf-data"
-  },"27": {
+  },"30": {
     "doc": "Schedule",
     "title": "Week 4 - Data Parallelization, Versioning",
     "content": "Sep 26 Data Management: Extract, Transform, Version (e.g: Apache Delta Lake, Pachyderm) Lecture 7 Sep 28 Model Management: (multi gpu, data parallelization) Lecture 8 ",
     "url": "/schedule/#week-4-data-parallelization-versioning",
     
     "relUrl": "/schedule/#week-4-data-parallelization-versioning"
-  },"28": {
+  },"31": {
     "doc": "Schedule",
     "title": "Week 5 - Project",
     "content": "Sep 19 Project Week Sep 21 Project Week ",
     "url": "/schedule/#week-5-project",
     
     "relUrl": "/schedule/#week-5-project"
-  },"29": {
+  },"32": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"30": {
+  },"33": {
     "doc": "Staff / Contact",
     "title": "Instructor",
     "content": "Pavlos Protopapas . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"31": {
+  },"34": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
     "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Shivas Jayaram . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"32": {
+  },"35": {
     "doc": "Staff / Contact",
     "title": "Contact",
     "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"33": {
+  },"36": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
