@@ -2,12 +2,8 @@
 layout: page
 title: Milestone 3
 parent: Projects
-nav_order: 2
+nav_order: 3
 ---
-Milestone 3
-
- 
-
 ### Milestone 3: The wheel. Optimization, Monitoring, and Deployment of Scalable Data Solutions
 
 #### Objectives:

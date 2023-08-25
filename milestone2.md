@@ -5,12 +5,6 @@ parent: Projects
 nav_order: 2
 ---
 
-Milestone 2
-
-
-
-
-
 ### Milestone 2: The discovery of fire. Building a Scalable and Modular Computing Infrastructure
 
 #### Objectives:
