@@ -9,5 +9,3 @@ nav_order: 3
 # Milestones 
 
 
-## 
-For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com
