@@ -1,5 +1,5 @@
 ---
-title: Week 13 - Thanks giving 
+title: Week 13 - Scaling & Deployment
 ---
 
 
