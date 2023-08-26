@@ -7,4 +7,8 @@ nav_order: 2
 
 # Calendar 
 
+```html
+<img src="/assets/images/AC215 - Schedule.svg" alt="drawing" width="400"/>
+```
+
 ![Schedule](/assets/images/AC215 - Schedule.svg)
