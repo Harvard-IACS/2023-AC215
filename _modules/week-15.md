@@ -2,7 +2,7 @@
 title: Week 15 - Presentations
 ---
 
-Dec 12, 13
+Dec 12
 : Presentations 
 
   
