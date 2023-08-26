@@ -8,7 +8,7 @@ Nov 14
 : **M 5 due**{: .label .label-red }
 
 Nov 16
-: Project 
+: Projects 
    
 
   

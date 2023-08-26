@@ -1,9 +1,7 @@
 ---
-title: Week 14 - Reading Time/Project
+title: Week 14 -  Projects
 ---
-
-Dec 5\-9
-: Project Work 
+ 
   
 
   
