@@ -6,6 +6,4 @@ Oct 3
 : Project Week
 
 Oct 5
-: Project Week
-
-  
+: Project Week 
