@@ -8,7 +8,7 @@ Nov 7
 
 Nov 9
 : Deployment	
-  : [Lecture 19=6](assets/lectures/AC215 Lecture 16 Placeholder.pdf)
+  : [Lecture 16](assets/lectures/AC215 Lecture 16 Placeholder.pdf)
 
   
   
