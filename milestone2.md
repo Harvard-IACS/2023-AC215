@@ -7,13 +7,13 @@ nav_order: 2
 
 ### Milestone 2: The discovery of fire. Building a Scalable and Modular Computing Infrastructure
 
-**Key dates:**
+This single milestone integrates various advanced computing technologies, focusing on building practical and scalable components. It aligns with topics that may be covered in your lectures, and the project-centric approach ensures that students will gain hands-on experience with relevant industry tools and practices
+
+### Key dates:
 
 - Due date: Sep 26th
 
-
-
-#### Objectives:
+### Objectives:
 
 - **Build Atomic Containers for Components**: Create containerized solutions for various components using standalone containers that can run independently. This will include the development of atomic containers for individual applications and services involved in the project.
 - **Construct Data Pipelines with Versioning**: Design and implement a robust data pipeline that leverages Extract, Transform, Versioning tools like Apache Delta Lake or Pachyderm/DVC. This will enable efficient data handling and version control within the project.
@@ -29,4 +29,3 @@ nav_order: 2
 - **Distributed Computing and Storage Integration**: Evidence of the implemented distributed computing system and cloud storage solutions, complete with documentation on their configuration and utilization.
 - **Machine Learning Workflow Implementation**: Detailed implementation of the advanced training workflows, with evidence of successful training runs, experiment tracking, and utilization of multi-GPU and serverless training.
 
-This single milestone integrates various advanced computing technologies, focusing on building practical and scalable components. It aligns with topics that may be covered in your lectures, and the project-centric approach ensures that students will gain hands-on experience with relevant industry tools and practices.

@@ -6,6 +6,16 @@ nav_order: 5
 ---
 ### Milestone 5: Machines. Development, Deployment, and Scaling of Application
 
+Milestone 5 emphasizes the final stages of the project, focusing on the development and deployment of a user-facing application that ties together the various components built in previous milestones. From designing an intuitive user interface to implementing scalable solutions with Kubernetes, this milestone ensures that the project is not only functional but also ready for real-world usage.
+
+The completion of this milestone signifies a comprehensive understanding of full-stack development, from front-end design to back-end integration, deployment, and scaling. It provides hands-on experience with modern tools and methodologies, preparing students for industry challenges and ensuring that they can apply these skills in their future careers.
+
+ ### Key dates:
+
+- Due date: Nov 14th
+
+
+
 #### Objectives:
 
 - **App Design, Setup, and Code Organization**: Design the overall architecture of the application, including its user interface, functionality, and underlying code structure. Focus on intuitive design and clean code organization to ensure maintainability and efficiency.
@@ -21,12 +31,4 @@ nav_order: 5
 - **Deployment Plan and Execution**: A documented deployment plan, along with evidence of successful deployment, including CI/CD pipelines, monitoring, and other deployment best practices.
 
 - **Kubernetes Scaling Solution**: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios.
-
-### Description:
-
-Milestone 5 emphasizes the final stages of the project, focusing on the development and deployment of a user-facing application that ties together the various components built in previous milestones. From designing an intuitive user interface to implementing scalable solutions with Kubernetes, this milestone ensures that the project is not only functional but also ready for real-world usage.
-
-The completion of this milestone signifies a comprehensive understanding of full-stack development, from front-end design to back-end integration, deployment, and scaling. It provides hands-on experience with modern tools and methodologies, preparing students for industry challenges and ensuring that they can apply these skills in their future careers.
-
- 
 
