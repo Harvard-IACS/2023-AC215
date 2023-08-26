@@ -5,17 +5,18 @@ parent: Projects
 nav_order: 1
 ---
 
-## Project Milestone 1
+### Project Milestone 1
 
 **Key dates:**
 
-**project proposals due - Sep 14th**
+- project proposals due: Sep 14th
+- staff feedback: Sep 19th
 
-**staff feedback - Sep 19th**
+#### Objectives:
 
 For the first milestone, your team will **propose a project** that aligns with your personal, professional, and academic interests and passions. 
 
-Allowing you to propose your own projects, rather than selecting from a predefined list, will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.
+Allowing you to propose your own projects,  will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.
 
 **Step 1** 
 
@@ -31,11 +32,11 @@ Statement of work should be concise and to the point. We are not expecting any g
 
 In summary, the proposal should include the following information:
 
-**Title and Authors:****
-** A good title goes a long way in attracting your audience’s attention. A creative title that is informative and relevant is important. Include the title of the project, your names, and your email address
+**Title and Authors:**
+A good title goes a long way in attracting your audience’s attention. A creative title that is informative and relevant is important. Include the title of the project, your names, and your email address
 
- **Background and Motivation:****
-** Briefly describe your reasons for choosing the topic of interest, including any prior background, research interests, or reading (papers, blog posts, etc.) that prompted you to propose your topic.
+ **Background and Motivation:**
+Briefly describe your reasons for choosing the topic of interest, including any prior background, research interests, or reading (papers, blog posts, etc.) that prompted you to propose your topic.
 
 
 
@@ -53,5 +54,4 @@ Statement of work  *without references to available, relevant data will not be a
 ** **Submit a PDF or word document of your proposal on canvas by the end of the day on** **Sep 14th.**.
 
 [Sample Proposal](https://drive.google.com/file/d/1uWNl8WB5LDvbsKkvgYeypT642rO0i2-b/view?usp=drive_link)
-
 

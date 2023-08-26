@@ -7,6 +7,12 @@ nav_order: 2
 
 ### Milestone 2: The discovery of fire. Building a Scalable and Modular Computing Infrastructure
 
+**Key dates:**
+
+- Due date: Sep 26th
+
+
+
 #### Objectives:
 
 - **Build Atomic Containers for Components**: Create containerized solutions for various components using standalone containers that can run independently. This will include the development of atomic containers for individual applications and services involved in the project.
