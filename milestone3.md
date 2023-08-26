@@ -14,7 +14,7 @@ The third milestone builds on the foundational work of the first, driving the pr
 
 - Due date: Oct 10th
 
-#### Objectives:
+### Objectives:
 
 - **Distillation/Quantization/Compression, TF lite**: Implement methods for model optimization such as distillation, quantization, and compression, using TensorFlow Lite. This will enable deployment in resource-constrained environments.
 

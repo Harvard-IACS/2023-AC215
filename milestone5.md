@@ -10,13 +10,13 @@ Milestone 5 emphasizes the final stages of the project, focusing on the developm
 
 The completion of this milestone signifies a comprehensive understanding of full-stack development, from front-end design to back-end integration, deployment, and scaling. It provides hands-on experience with modern tools and methodologies, preparing students for industry challenges and ensuring that they can apply these skills in their future careers.
 
- ### Key dates:
+### Key dates:
 
 - Due date: Nov 14th
 
 
 
-#### Objectives:
+### Objectives:
 
 - **App Design, Setup, and Code Organization**: Design the overall architecture of the application, including its user interface, functionality, and underlying code structure. Focus on intuitive design and clean code organization to ensure maintainability and efficiency.
 - **APIs & Frontend Integration**: Develop robust APIs that facilitate communication between the front end and back end of the application. Implement a responsive and user-friendly front-end interface that leverages these APIs to create a seamless user experience.
