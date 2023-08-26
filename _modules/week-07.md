@@ -7,7 +7,7 @@ Oct 17
   : [Lecture 11](assets/lectures/AC215 Lecture 11 Placeholder.pdf)
 
 Oct 19 
-:  Hands on Mega Pipeline App
+: Hands on Mega Pipeline App
   : [Lecture 12](assets/lectures/AC215 Lecture 12 Placeholder.pdf)
 
   
