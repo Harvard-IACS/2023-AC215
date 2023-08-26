@@ -1,4 +1,4 @@
 ---
 title: Week 5 - Project Week
 ---
-: **M 3**{: .label .label-red }
+: **M 3 due**{: .label .label-red }
