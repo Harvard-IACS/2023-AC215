@@ -1,12 +1,12 @@
 ---
-title: Week 3 - Dask, Cloud Storage, TF Data 
+title: Week 3 - Data
 ---
 
 Sep 19
-: Data Pipelines, Dask, Cloud Storage 
+: Data Pipelines, Extract, Transform, Versioning (e.g: Apache Delta Lake, Pachyderm/DVC)
   : [Lecture 5](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
 : **M 1 due**{: .label .label-red }
 
 Sep 21
-: TF Data and TF Records
+: Dask, Cloud Storage	
   : [Lecture 6](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
