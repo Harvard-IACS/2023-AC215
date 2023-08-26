@@ -7,4 +7,4 @@ nav_order: 2
 
 # Calendar 
 
-![Schedule.](/assets/images/AC215 - Schedule.svg)
+![Schedule](/assets/images/AC215 - Schedule.svg)
