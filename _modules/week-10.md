@@ -3,12 +3,12 @@ title: Week 10 - Scaling & Deployment
 ---
 
 Nov 7
-: Scaling: Kubernetes
-  : [Lecture 18](assets/lectures/AC215 Lecture 18 Placeholder.pdf)
+: APIs & Frontend	
+  : [Lecture 15](assets/lectures/AC215 Lecture 15 Placeholder.pdf)
 
 Nov 9
-: Deploymentnd
-  : [Lecture 19](assets/lectures/AC215 Lecture 19 Placeholder.pdf)
+: Deployment	
+  : [Lecture 19=6](assets/lectures/AC215 Lecture 16 Placeholder.pdf)
 
   
   
