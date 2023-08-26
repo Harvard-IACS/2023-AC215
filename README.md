@@ -1,6 +1,6 @@
 ---
 layout: home
-title: AC215, CSCIE-115
+title: MLOps: AC215, CSCIE-115
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -9,7 +9,7 @@ seo:
 ---
 
 
-# AC215, CSCIE-115
+#  **Productionizing AI (MLOps)**: AC215, CSCIE-115.
 {:.no_toc}
 
 ## Table of contents
