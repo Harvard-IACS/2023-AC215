@@ -1,14 +1,14 @@
 ---
-title: Week 10 - App Development 
+title: Week 10 - Scaling & Deployment
 ---
 
-Nov 7
-: APIs & Frontend	
-  : [Lecture 15](assets/lectures/AC215 Lecture 15 Placeholder.pdf)
+Nov 28
+: Scaling: Kubernetes
+  : [Lecture 18](assets/lectures/AC215 Lecture 18 Placeholder.pdf)
 
-Nov 9
-: Deploymentnd
-  : [Lecture 16](assets/lectures/AC215 Lecture 16 Placeholder.pdf)
+Nov 30
+: Deployment: Ansible
+  : [Lecture 19](assets/lectures/AC215 Lecture 19 Placeholder.pdf)
 
   
   
