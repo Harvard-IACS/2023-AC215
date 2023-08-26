@@ -2,7 +2,7 @@
 layout: page
 title: Milestone 1
 parent: Projects
-nav_order: 2
+nav_order: 1
 ---
 
 ## Project Milestone 1
@@ -55,53 +55,3 @@ Statement of work  *without references to available, relevant data will not be a
 [Sample Proposal](https://drive.google.com/file/d/1uWNl8WB5LDvbsKkvgYeypT642rO0i2-b/view?usp=drive_link)
 
 
-
-
-During the entire course, you will work in teams and implement a project. The various topics in the class are designed to help you build milestones in an incremental fashion and build towards the end goal. The final outcome with your project will be a fully working AI App.
-
-- Project groups need to be formed by the first or second week of class Date after drop add ?? 
-
-- Group size: 3-5
-
-- Select a project from the list given or bring your own - Are we giving them any list ? previous - **Austin Pets Alive/Visual Question Answering/Caption this image** 
-
-- 
-
-- Criteria for projects are:
-
-- - Deep learning task implemented should include either computer vision or language models or time series data.
-  - The end product should be a deployable app that uses the models in the backend in some form
-
-- If you plan to bring your own project idea, the following additional criteria must be met:
-
-- - Dataset size 5 Gigabytes or larger
-
-This is a group assignment that will be done during the entire duration of the course
-
-| Due date for final presentations | Final week of classes |
-| -------------------------------- | --------------------- |
-| Due dates for milestones         | Will be announced     |
-
-The project will build on the various topics you learn (or you have learned in previous courses) in the entire course:
-
-- Deep Learning
-- Development
-- Operations
-
-You will implement all the skills you learn in the various modules. The project will put to the test the skills you have acquired during the entire course. The example projects were designed so that you will need to do data processing and transfer learning for both images and text. Develop and deploy an AI App
-
-We are deliberately not giving **specific instructions**, unlike the previous course homework, so that the problem's overall structure and dynamics are understood and allowing you to be creative and investigative.
-
-The datasets used in the projects are large and this will help you in real-life projects that you might encounter in the future. This will be a challenging task, where you will need to work hand in hand as a team, filling in a software development team's shoes.
-
-—----------
-
-- Project Proposal (due week 3):
-
-- Come up with a project idea and plan
-- Confirm teams
-- Write proposal and get approval
-
-Milestone 1 Deliverable - 
-
-Project team name - https://docs.google.com/spreadsheets/d/1zaYPLYblMjNODzoRuZxzOX16HaIkuWCs/edit?usp=sharing&ouid=109490521694988502723&rtpof=true&sd=true
