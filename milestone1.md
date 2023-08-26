@@ -12,7 +12,7 @@ nav_order: 1
 - project proposals due: Sep 14th
 - staff feedback: Sep 19th
 
-#### Objectives:
+### Objectives:
 
 For the first milestone, your team will **propose a project** that aligns with your personal, professional, and academic interests and passions. 
 
