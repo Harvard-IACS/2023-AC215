@@ -1,5 +1,5 @@
 ---
-title: Week 11 - Scaling & Deploym
+title: Week 11 - Scaling & Deployment
 ---
 
 Nov 14
