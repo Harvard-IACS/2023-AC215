@@ -7,11 +7,12 @@ Sep 05
   : [Lecture 1](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
 
 Sep 07
-: **Demo**{: .label .label-purple }Virtual Environments and Virtual Machines
+: Virtual Environments and Virtual Machines
   : [Lecture 2](assets/lectures/AC215 Lecture 2 Placeholder.pdf)
 
   
 <!-- 
+**Demo**{: .label .label-purple }
 Sep 30
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)

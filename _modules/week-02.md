@@ -9,7 +9,7 @@ Sep 12
 Sep 14
 : Containers II
   : [Lecture 4](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
-
+: **M 1 due**{: .label .label-red }
   
 <!-- 
 Sep 30
