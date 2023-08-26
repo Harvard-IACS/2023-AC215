@@ -1,9 +1,4 @@
 ---
-title: Week 5 - Project  
+title: Week 5 - Project Week
 ---
-
-Oct 3
-: Project Week
-
-Oct 5
-: Project Week 
+  
