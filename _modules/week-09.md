@@ -7,7 +7,7 @@ Oct 31
   : [Lecture 13](assets/lectures/AC215 Lecture 13 Placeholder.pdf)
 
 Nov 2 
-:   APIs & Frontend
+: APIs & Frontend
   : [Lecture 14](assets/lectures/AC215 Lecture 14 Placeholder.pdf)
 
   
