@@ -3,7 +3,7 @@ title: Week 6 - Model
 ---
 
 Oct 10
-:Distillation/Quantization/Compression, TF lite
+: Distillation/Quantization/Compression, TF lite
   : [Lecture 9](assets/lectures/AC215 Lecture 9 Placeholder.pdf)
 
 Oct 12 
