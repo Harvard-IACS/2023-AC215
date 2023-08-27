@@ -4,7 +4,11 @@ title: Milestone 4
 parent: Projects
 nav_order: 4
 ---
-### Milestone 4 (internal combustion engine):  Optimization, Monitoring, and Deployment of Scalable Data Solutions
+### Milestone 4 (internal combustion engine): Midterm Presentation:  Optimization, Monitoring, and Deployment of Scalable Data Solutions
+
+*Note: This milestone serves as the midterm presentation for AC215.*
+
+
 
 This milestone focuses on the optimization, monitoring, and deployment aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced techniques and tools like TensorFlow Lite for model optimization and Kubeflow for machine learning workflows. The integration of a comprehensive performance monitoring system ensures ongoing reliability, and the creation of a "Mega Pipeline" application represents the culminating hands-on experience that brings all elements together in a cohesive, manageable structure.
 

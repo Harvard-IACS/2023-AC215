@@ -20,8 +20,6 @@ In this milestone, the focus is on developing an advanced training workflows and
 
 ### Deliverables:
 
-- **Containerized Components**: Fully-functional atomic containers for all individual components, aligned and ready for integration within the project architecture.
-- **Virtual Environment Setup**: Documented and implemented virtual machines and environments tailored to support the containerized components.
 - **Data Pipeline Implementation**: A comprehensive data pipeline with extraction, transformation, and versioning capabilities, including examples of versioned datasets.
 - **Distributed Computing and Storage Integration**: Evidence of the implemented distributed computing system and cloud storage solutions, complete with documentation on their configuration and utilization.
 - **Machine Learning Workflow Implementation**: Detailed implementation of the advanced training workflows, with evidence of successful training runs, experiment tracking, and utilization of multi-GPU and serverless training.
