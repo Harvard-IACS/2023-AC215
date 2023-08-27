@@ -1,39 +1,30 @@
 ---
 layout: page
-title: Milestone 4
+title: Milestone 3
 parent: Projects
-nav_order: 4
+nav_order: 3
 ---
-### Milestone 4 (internal combustion engine): Midterm Presentation:  Optimization, Monitoring, and Deployment of Scalable Data Solutions
+### Milestone 3 (steam engine): Building a Scalable and Modular Computing Infrastructure
 
-*Note: This milestone serves as the midterm presentation for AC215.*
-
-
-
-This milestone focuses on the optimization, monitoring, and deployment aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced techniques and tools like TensorFlow Lite for model optimization and Kubeflow for machine learning workflows. The integration of a comprehensive performance monitoring system ensures ongoing reliability, and the creation of a "Mega Pipeline" application represents the culminating hands-on experience that brings all elements together in a cohesive, manageable structure.
-
-The fourth milestone builds on the foundational work of the first three, driving the project towards completion and ensuring readiness for real-world application. This will provide students with exposure to industry-standard best practices and hands-on experience with cutting-edge tools and methodologies.
+In this milestone, the focus is on developing an advanced training workflows and TensorFlow-based data management will also be implemented to enhance machine learning capabilities and streamline the project's complexities.
 
 ### Key dates:
 
-- Due date: Oct 24th
+- Due date: Oct 5th
 
 ### Objectives:
 
-- **Distillation/Quantization/Compression, TF lite**: Implement methods for model optimization such as distillation, quantization, and compression, using TensorFlow Lite. This will enable deployment in resource-constrained environments.
+- **Integrate Distributed Computing and Cloud Storage**: Implement distributed computing solutions using tools like Dask, and align with cloud storage systems that support the scale and complexity of the project.
 
-- **Model Performance Monitoring, Data Drift Awareness**: Develop a comprehensive monitoring solution to continuously track model performance, detect data drift, and ensure awareness of other post-release factors that may impact the system. 
+- **Utilize TensorFlow for Data Management**: Implement TF Data and TF Records to enhance data ingestion and management within machine learning components of the project.
 
-- **Kubeflow and Cloud Functions Integration**: Utilize Kubeflow for machine learning workflows and integrate cloud functions to automate and scale various processes within the project, aligning with cloud-native practices.
-
-- **Build a Hands-on Mega Pipeline App**: Design and create a scalable and comprehensive pipeline application that encapsulates all the elements of the project. This "Mega Pipeline" will serve as the unified interface for managing and executing various project components.
+- **Develop Advanced Training Workflows**: Implement and optimize complex training workflows including experiment tracking (W&B), multi-GPU training, serverless training (Vertex AI), and Kubeflow. These should align with the machine learning components and training requirements of the project.
 
 ### Deliverables:
 
-- **Optimized Models**: Models that have been distilled, quantized, or compressed using TensorFlow Lite, complete with performance benchmarks and analysis.
+- **Data Pipeline Implementation**: A comprehensive data pipeline with extraction, transformation, and versioning capabilities, including examples of versioned datasets.
 
-- **Performance Monitoring Solution**: A well-documented monitoring system that provides insights into model performance, data drift, and other relevant factors. Includes alerting and reporting mechanisms.
+- **Distributed Computing and Storage Integration**: Evidence of the implemented distributed computing system and cloud storage solutions, complete with documentation on their configuration and utilization.
 
-- **Kubeflow & Cloud Functions Implementation**: Documentation and code showcasing the successful integration of Kubeflow for machine learning orchestration and cloud functions for process automation.
+- **Machine Learning Workflow Implementation**: Detailed implementation of the advanced training workflows, with evidence of successful training runs, experiment tracking, and utilization of multi-GPU and serverless training.
 
-- **Mega Pipeline Application**: A fully-functional CLI based mega pipeline application that serves as the control center for the project, enabling the seamless execution of various components from data ingestion to model deployment. Should include detailed documentation and user guides.
