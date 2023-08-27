@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 2
 ---
 
-### Milestone 2:  Building a Scalable and Modular Computing Infrastructure
+### Milestone 2:  Trokhilos (the wheel): Building a Scalable and Modular Computing Infrastructure
 
 In this milestone, the focus is on developing a robust and scalable MLOps infrastructure. Teams will build atomic containers for various project components, design data pipelines with version control using tools like Apache Delta Lake, and integrate distributed computing solutions alongside cloud storage. Advanced training workflows and TensorFlow-based data management will also be implemented to enhance machine learning capabilities and streamline the project's complexities.
 
