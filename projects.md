@@ -13,7 +13,7 @@ Project Milestones - Overview
 | **Milestones** | **Brief Description**                                        | **Due Date** | **Grade %** |
 | -------------- | ------------------------------------------------------------ | ------------ | ----------- |
 | **MS1**        | *Project Proposals, Team formation -*  Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19 | **09/14**    | **5**       |
-| **MS2**        | *EDA, modeling approach description -* Students will acquire and preprocess data by carefully considering the following topics in order to gain a better understanding of the data at hand: missingness, data imbalance, data scaling issues, and other expected errors. A brief description of appropriate modelling approach is also part of this milestone. | **09/26**    | **10**      |
+| **MS2**        | *MLOps Infrastructure & Advanced Training Workflows -* Building Atomic Containers, Versioned Data Pipelines, and Scalable Computing Solutions | **09/26**    | **10**      |
 | **MS3**        | *Model training -* Students will complete the model training and build a robust pipeline for any further changes. | **10/05**    | **15**      |
 | **MS4**        | Integrate into containers, CLI based calls etc, data pipeline, data versioning etc, e.g: kubeflow, cloud function | **10/24**    | **25**      |
 | **MS5**        | Containerized model with fastapi -                           | **11/14**    | **10**      |

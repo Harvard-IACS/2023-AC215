@@ -142,7 +142,7 @@ Below are two samples SOW for such apps:
 
 # ButterFlyer
 
-![butterfly](/assets/images/butterfly.jpg)
+![butterfly](/assets/images/butterflyWL.jpeg)
 
 ## Statement of Work for Project ""
 
