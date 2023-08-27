@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 1
 ---
 
-### Project Milestone 1. Promytheus phase
+### Project Milestone 1 (the promytheus phase): Project Proposals, Team formation
 
 **Key dates:**
 
