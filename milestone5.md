@@ -8,7 +8,6 @@ nav_order: 5
 
 Milestone 5 emphasizes the final stages of the project, focusing on the development and deployment of a user-facing application that ties together the various components built in previous milestones. From designing an intuitive user interface to implementing scalable solutions with Kubernetes, this milestone ensures that the project is not only functional but also ready for real-world usage.
 
-The completion of this milestone signifies a comprehensive understanding of full-stack development, from front-end design to back-end integration, deployment, and scaling.  
 
 ### Key dates:
 
@@ -25,8 +24,3 @@ The completion of this milestone signifies a comprehensive understanding of full
 - **Application Design Document**: A detailed design document outlining the application's architecture, user interface, and code organization principles.
 
 - **APIs & Frontend Implementation**: Working code for the APIs and front-end interface, complete with documentation and testing to verify proper functionality.
-
-- **Deployment Plan and Execution**: A documented deployment plan, along with evidence of successful deployment, including CI/CD pipelines, monitoring, and other deployment best practices.
-
-- **Kubernetes Scaling Solution**: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios.
-
