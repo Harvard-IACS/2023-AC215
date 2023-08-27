@@ -14,12 +14,12 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 ### Key dates:
 
-- Due date: Dec 12-13
+- Due date: Dec 12th
  
 
 ### Objectives:
 
-- **Scaling with Kubernetes**: Continue to refine and expand the Kubernetes-based scaling solution implemented in the previous milestone. Ensure that the application can handle real-world scenarios and peak loads efficiently.
+- **Scaling with Kubernetes**: Continue to refine and expand the Kubernetes-based scaling solution. Ensure that the application can handle real-world scenarios and peak loads efficiently.
 
 - **Deployment with Ansible**: Implement an automated deployment solution using Ansible. This will enable streamlined deployment processes, configuration management, and ensure consistency across different environments.
 
@@ -31,11 +31,12 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 ### Deliverables:
 
+- **Deployment Plan and Execution**: A documented deployment plan, along with evidence of successful deployment, including CI/CD pipelines, monitoring, and other deployment best practices.
+
+- **Kubernetes Scaling Solution**: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios.
+
 - **Project Presentation**: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project, suitable for both technical and non-technical audiences.
 
-- **GitHub Repository**: A well-organized GitHub repository containing all the project's code, documentation, and related resources.
+- **GitHub Repository**: A well-organized GitHub repository containing all the project's code, documentation, related resources, and a professional README.
 
-- **Blog Post**: A published blog post that encapsulates the essence of the project, written in a style that appeals to a broad audience.
-
-
-
+- **Medium Post**: A published Medium post that encapsulates the essence of the project, written in a style that appeals to a broad audience.
