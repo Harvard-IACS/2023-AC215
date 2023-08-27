@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 1
 ---
 
-### Project Milestone 1
+### Project Milestone 1. Promytheus phase
 
 **Key dates:**
 
@@ -142,6 +142,8 @@ Below are two samples SOW for such apps:
 
 # ButterFlyer
 
+![butterfly](/assets/images/butterfly.jpg)
+
 ## Statement of Work for Project ""
 
 ## Team Members
@@ -178,7 +180,7 @@ The project will focus on employing a convolutional neural network for image rec
 The application will feature two main interfaces:
 1. A camera interface for capturing butterfly images.
 2. A chatbot interface to interact with users.
-  (Additional wireframes or mock-ups can be attached).
+    (Additional wireframes or mock-ups can be attached).
 
 ### Objectives  
 
