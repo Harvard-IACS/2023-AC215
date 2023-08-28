@@ -24,11 +24,11 @@ nav_order: 4
 {% if num_teaching_headtf != 0 %}
 
 ## Contact 
-For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com
+For administrative or logistical questions, please e-mail class Helpline at [ac215.2023@gmail.com](mailto:ac215.2023@gmail.com) 
 
 ## Office Hours 
 TBD 
- 
+
 ## Course Staff
 {% for staffer in teaching_headtf %}
 {{ staffer }}
