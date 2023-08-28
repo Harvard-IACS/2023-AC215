@@ -308,12 +308,19 @@
     "relUrl": "/staff/#contact"
   },"44": {
     "doc": "Staff / Contact",
+    "title": "Office Hours",
+    "content": "TBD . ",
+    "url": "/staff/#office-hours",
+    
+    "relUrl": "/staff/#office-hours"
+  },"45": {
+    "doc": "Staff / Contact",
     "title": "Course Staff",
     "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Shivas Jayaram . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"45": {
+  },"46": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
