@@ -23,6 +23,10 @@ nav_order: 4
 {% assign num_teaching_headtf = teaching_headtf | size %}
 {% if num_teaching_headtf != 0 %}
 
+## Contact 
+For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com
+
+
 ## Course Staff
 {% for staffer in teaching_headtf %}
 {{ staffer }}
@@ -35,5 +39,3 @@ nav_order: 4
 {% endif %}
 
 
-## Contact 
-For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com

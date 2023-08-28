@@ -1,7 +1,7 @@
 ---
 name: Shivas Jayaram
 role: Teaching Assistant
-# email: me@example.com
+# email: shivasj AT gmail
 # website: https://kevinl.info
 # photo: kevin.jpg
 ---
