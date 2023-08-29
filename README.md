@@ -180,7 +180,7 @@ The heart of this course is experiential learning. We fervently believe that you
    - Engaging in unacceptable behaviors will lead to disciplinary action. When in doubt, always consult the course instructors.
    ​
 3. **Deadlines:**
-   - Adhering to deadlines is crucial for a consistent learning experience. All quizzes and exercises are due before the day of the next session. No extensions will be provided, so plan your time effectively.
+   - Adhering to deadlines is crucial for a consistent learning experience. All milestones are due at 9:00 PM EST. You are allowed total of 5 late days and no more than 2 days per milestone. Please send an email to class helpline if [ac215.2023@gmail.com](ac215.2023@gmail.com) you are submitting later than due date. NO extensions for final milestone, so plan your time effectively.
    ​
 4. **Collaboration & Teamwork:**
    - Collaboration is encouraged, especially for projects. However, ensure you contribute equally and do not divide tasks in a way that prevents you from understanding all parts of the assignment.
@@ -213,5 +213,6 @@ To foster inclusion:
    - If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.
    
    - Respect and consideration for diverse backgrounds and perspectives are expected from all participants.
+   
+   - Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
 
-	Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
