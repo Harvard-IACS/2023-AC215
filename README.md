@@ -20,7 +20,7 @@ seo:
 
 ---
 
-<span style="color:red">IMPORTANT❗ - Draft more details soon </span>
+<span style="color:red">IMPORTANT❗ - Draft  Version 8/30/2023 </span>
 ​
 
 ## Course Introduction
@@ -29,8 +29,8 @@ In today's AI-driven world, building a robust deep learning model is only half t
 
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering:
-​
+We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](https://docs.google.com/spreadsheets/d/1dGMKu5OZlRxtQPdrlxb9DENZz6wNcIS_e6Xq4z83Zto/edit?usp=sharing) for a full list of topics):
+
 
 1. **Introduction:** 
    - Begin with an understanding of the importance of MLOps and how it fits in the broader AI and software development ecosystem.
