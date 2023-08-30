@@ -27,6 +27,16 @@ seo:
 
 In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
 
+
+
+## Lectures
+
+- **Location:** SEC LL2.224 Lecture Hall (Lower Level 2, room 2.224, 150 Western Ave, Boston)
+
+- **Meeting Time:** Tuesday 03:45 PM - 05:00 PM; Thursday 03:45 PM - 05:00 PM
+
+  
+
 ## Course Topics Overview
 
 We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](https://docs.google.com/spreadsheets/d/1dGMKu5OZlRxtQPdrlxb9DENZz6wNcIS_e6Xq4z83Zto/edit?usp=sharing) for a full list of topics):
@@ -100,38 +110,21 @@ To ensure a seamless learning experience and to make the most of this course, pa
    ​
 6. **General AI and ML Concepts:** 
    - While this course is centered around MLOps, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics.
-   ​
-   It's important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you're not an expert in all of the prerequisites, a willingness to learn and engage actively in the course's hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding.
+
+It's important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you're not an expert in all of the prerequisites, a willingness to learn and engage actively in the course's hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding.
    ​
 
-## Lectures
 
-- **Location:** SEC LL2.224 Lecture Hall
-- **Meeting Time:** Tuesday 03:45 PM - 05:00 PM; Thursday 03:45 PM - 05:00 PM
 
 
 
 ## Course Components
 
 - **Weekly Sessions:** Structured lectures focusing on the core topics.
-  
-- **Office Hours:** Dedicated time with the instructors and TAs for queries and clarifications.
-  
+- **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
-  
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
-  
-  
-  
-- **Reading Assignments:** Curated readings to supplement lecture material and deepen understanding.
-  
-
-<!--- **Quizzes:** Short assessments to gauge understanding and reinforce key concepts. --->
-
-<!--- **Exercises:** Hands-on tasks and challenges designed to provide practical experience.--->
-
-
-Remember, these components might undergo changes to ensure the best learning experience, so always stay updated with the latest course schedule and announcements.
+- **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
 
 **Team Projects: Project-Based Learning: Crafting Your Own AI Solutions**
 
@@ -173,31 +166,38 @@ The heart of this course is experiential learning. We fervently believe that you
    - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2023@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
-2. **Academic Honesty:**
+2. **Deadline Policy:**
+
+   Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You are granted a total leeway of five late days throughout the course duration, with a maximum of two late days allowed for any single milestone.
+
+   Should you need to utilize late days, please inform the class helpline via email at [ac215.2023@gmail.com](mailto:ac215.2023@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
+
+   **Final Milestone:** It's important to note that no extensions will be permitted for the final milestone, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
+
+3. **Academic Honesty:**
+
    - This course places a strong emphasis on ethical behavior. Whether it's ethically handling data or attributing the work of others, students are expected to maintain high standards of integrity.
    - **Acceptable Behaviors:** Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors.
    - **Unacceptable Behaviors:** Accessing or sharing solutions before submission, plagiarizing, not citing sources of external code or techniques, paying or offering payment for coursework, and sharing course material with future potential students.
    - Engaging in unacceptable behaviors will lead to disciplinary action. When in doubt, always consult the course instructors.
-   ​
-3. **Deadlines:**
-   - Adhering to deadlines is crucial for a consistent learning experience. All milestones are due at 9:00 PM EST. You are allowed total of 5 late days and no more than 2 days per milestone. Please send an email to class helpline if [ac215.2023@gmail.com](ac215.2023@gmail.com) you are submitting later than due date. NO extensions for final milestone, so plan your time effectively.
-   ​
-4. **Collaboration & Teamwork:**
+     ​
+     ​
+
+4.  **Collaboration & Teamwork:**
    - Collaboration is encouraged, especially for projects. However, ensure you contribute equally and do not divide tasks in a way that prevents you from understanding all parts of the assignment.
 
 5. **Feedback & Evaluation:**
    - Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Do provide feedback on the course structure, content, and delivery, so we can continually improve.
-   ​
-6. **Accessibility:**
+## Accessibility:
 
-   - We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible.
-     
-     Adherence to accessibility policies and a commitment to fairness, respect for your learning journey, and consideration for the learning journey of your peers are expected from all students.
+We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible.
 
-    
+Adherence to accessibility policies and a commitment to fairness, respect for your learning journey, and consideration for the learning journey of your peers are expected from all students.
 
-7. **Inclusion and Belonging Statement**
-   In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to:
+ 
+
+## Inclusion and Belonging Statement
+ In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to:
 
    - Advance ethical data science and expose biases in its applications.
 
