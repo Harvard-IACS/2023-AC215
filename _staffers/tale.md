@@ -1,5 +1,5 @@
 ---
-name: Shivas Jayaram
+name: Tale Lokvenec
 role: Teaching Assistant
 # email: tale AT gmail
 # website: https://kevinl.info
