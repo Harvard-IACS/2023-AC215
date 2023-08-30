@@ -90,237 +90,244 @@
     
     "relUrl": "/calendar/"
   },"13": {
+    "doc": "FAQs",
+    "title": "FAQs",
+    "content": "Do I have access to the video recorded materials? . Yes. All AC215 / CSCIE-115 students have access to all the video captured materials. Is there a GitHub repo for the class? . Yes. https://github.com/Harvard-IACS/2023-AC215 . I’m unable to attend lectures in person. Is attendance mandatory ? . Attendance is not mandatory. Lectures are recorded, however you do miss out on interaction with Professors and other students. ",
+    "url": "/faq/",
+    
+    "relUrl": "/faq/"
+  },"14": {
     "doc": "Milestone 1",
     "title": "ButterFlyer",
     "content": ". ",
     "url": "/milestone1/#butterflyer",
     
     "relUrl": "/milestone1/#butterflyer"
-  },"14": {
+  },"15": {
     "doc": "Milestone 1",
     "title": "Statement of Work for Project “”",
     "content": " ",
     "url": "/milestone1/#statement-of-work-for-project-",
     
     "relUrl": "/milestone1/#statement-of-work-for-project-"
-  },"15": {
+  },"16": {
     "doc": "Milestone 1",
     "title": "Team Members",
     "content": ". | [Pavlov Protovief] | [Paolo Primopadre] | [Pablo El Padron ] ",
     "url": "/milestone1/#team-members",
     
     "relUrl": "/milestone1/#team-members"
-  },"16": {
+  },"17": {
     "doc": "Milestone 1",
     "title": "Contact Information",
     "content": "| [pavlos@pleasedonotemailme.com] | . Problem Statement . To develop an application that can identify various species of butterflies in the wild using computer vision and offer educational content through a chatbot interface. Minimum Components for a Good Project . | Large Data: Collection and utilization of a varied and substantial dataset of butterfly images. | Scalability: Ability to handle multiple users querying the computer vision model and chatbot simultaneously. | Complex Models: Use of deep learning-based computer vision models for accurate species identification. | Computationally Expensive Inference: Implementation of efficient algorithms to minimize latency during species identification. | . Objectives . | Collect and preprocess a diverse dataset of butterfly images. | Develop a computer vision model to identify butterfly species. | Implement a scalable backend to handle multiple queries. | Design an intuitive and user-friendly frontend. | Integrate a chatbot for answering user questions about butterflies. | . Learning Emphasis . The project will focus on employing a convolutional neural network for image recognition and natural language processing techniques for the chatbot, both areas covered in the course. Application Mock Design . The application will feature two main interfaces: . | A camera interface for capturing butterfly images. | A chatbot interface to interact with users. (Additional wireframes or mock-ups can be attached). | . Objectives . | Collect and preprocess a diverse dataset of butterfly images: . | Data Source: The dataset will primarily come from public repositories like [X Dataset Source] and [Y Dataset Source]. We will also supplement this with images captured during field trips and those sourced from citizen science platforms. | Data Attributes: Images should ideally be labeled with the species name, geographic location, and date of capture. | Data Relevance: The comprehensiveness of the dataset is vital for training a robust computer vision model capable of identifying a wide range of butterfly species. | . (Note: If acquiring new images, all team members should adhere to ethical guidelines concerning wildlife photography and data collection.) . | . | Source: Data will be collated from a combination of open-source databases, user-generated content from platforms like iNaturalist, and field data collection by team members. | Description: The dataset will comprise images of various butterfly species, ideally annotated with species names and other metadata like geographic location and date. | Key Attributes: The dataset should include high-resolution images suitable for computer vision algorithms, along with associated metadata to enrich the model’s understanding. | Relevance: The dataset is fundamental to train the computer vision model to identify different species of butterflies accurately. | Data Quality: We anticipate that some images might be poorly labeled or low in quality. These will either be cleaned or supplemented with additional data. | . Research and Development . We will review literature and open-source projects related to computer vision in biological classification and natural language processing for educational chatbots. Fun Factor . Exploring the intersection of biology and technology, while learning about butterflies, makes this project particularly engaging. Limitations and Risks . | Possible challenges in obtaining a large and diverse enough dataset. | Computational limitations when deploying complex models. | . Milestones . | Data collection and preprocessing: [Tentative Deadline] | Computer vision model development: [Tentative Deadline] | Backend implementation: [Tentative Deadline] | Frontend development: [Tentative Deadline] | Chatbot integration: [Tentative Deadline] | Final testing and deployment: [Tentative Deadline] | . ",
     "url": "/milestone1/#contact-information",
     
     "relUrl": "/milestone1/#contact-information"
-  },"17": {
+  },"18": {
     "doc": "Milestone 1",
     "title": "Milestone 1",
     "content": "Project Milestone 1 (the promytheus phase): Project Proposals, Team formation . Key dates: . | project proposals due: Sep 14th | staff feedback: Sep 19th | . Objectives: . For the first milestone, your team will propose a project that aligns with your personal, professional, and academic interests and passions. Allowing you to propose your own projects, will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience. Step 1: Create Teams (Groups of 3-5 Students) . Platform for Team Formation: You may use the Ed platform to find your teammates. Alternatively, you may form teams independently. Team Registration: Once you have finalized your team, please enter your team name and the names of team members in this shared spreadsheet. Step 2: Submit Statement of Work (Project Proposal) . Your Statement of Work should act as a blueprint for your project. It doesn’t have to be extensive, but it should be clear and focused. Components of the Statement of Work: . Title and Authors: . | Title: An engaging, relevant, and informative title that captures the essence of your project. | Authors: Names of all team members and their respective email addresses. | . Background and Motivation: . Provide a brief background on the topic you have chosen. Explain why you find it interesting or important, and mention any previous background, research interests, or readings that have influenced your choice. Scope and Objectives: . Clearly outline the problem or question your project aims to solve. Make sure the scope is well-defined so that there is no ambiguity regarding your project’s objectives. Submission Guidelines: . | Length: 1-2 pages . | Format: PDF . | Submit via [TBD] . | . Your draft provides a good outline for what students need to consider regarding the data for their projects. However, it might be beneficial to structure it a bit more for clarity. Here’s a revised version with some suggestions: . Step 3: Discuss Data Sources . Data is the backbone of any data science project and therefore for any MLOps project, making it crucial to identify appropriate datasets for your endeavor. In your Statement of Work, you must address the following aspects regarding data: . Source of Data: . | Identify where the data comes from (e.g., public repository, generated by the team, etc.). | . Description of Dataset: . | Offer a brief overview of what the dataset contains. Is it time-series data, images, textual data, etc.? | . Key Attributes: . | Describe the variables or features that are most relevant to your problem. | . Relevance to the Project: . | Explain how the data is suited to solving the problem or question you’ve posed. Why is this data set useful or relevant? | . Data Quality Concerns: . | If applicable, indicate any potential challenges related to data quality that you foresee (e.g., missing data, inconsistencies, or the need to merge multiple datasets). Mention your preliminary plan to tackle these issues. | . Important Note: . Statements of Work that do not include information on available and relevant data will not be accepted. Step 4: Define Scope and Preliminary Design . The scope of your project is largely up to you and your team. Whether it’s simple or complex, the aim should be to align with the course’s learning objectives. However, for a project to be considered comprehensive, it should ideally include a few of the following minimum components: . Minimum Components for a Good Project: . | Large or Heterogeneous Data: Your project should involve a sizable or diverse dataset that requires careful handling and processing. | Scalability: Consider how your solution will scale for many users, particularly in the application you intend to build. | Complex Models: The project should explore models that are challenging to train, which will showcase your understanding of MLOps challenges. | Computationally Expensive Inference: If your project involves inference models, they should be computationally intensive to align with real-world challenges. | . Problem Statement: . | Clearly outline the problem or question your project addresses. | . Objectives: . | List the primary goals or outcomes, which should align with your problem statement and the minimum components outlined above. | . Learning Emphasis: . | Opt for models and methods that your team understands. The project should reflect your grasp of course concepts. | . Application Mock Design: . | Include a preliminary design or sketch for the application you intend to develop. This could range from simple wireframes to a more detailed, clickable prototype. | . Research and Development: . | Reference papers, blog posts, or other scholarly materials that aid your project and align with your objectives. | . Fun Factor: . | The project should also be a space for you to enjoy both the subject matter and the developmental process. | . Limitations and Risks: . | Discuss any anticipated challenges or limitations, such as data quality issues or technical constraints. | . Milestones: . | List key milestones for both your project and application development. Include tentative deadlines, if possible. | . Important Note: . Statements of Work that do not include both a well-defined scope and a preliminary design for the application will not be accepted. Deliverables: Submit a PDF or word document of your proposal on canvas by the end of the day on Sep 14th. Below are two samples SOW for such apps: . Sample Proposal . ",
     "url": "/milestone1/",
     
     "relUrl": "/milestone1/"
-  },"18": {
+  },"19": {
     "doc": "Milestone 2",
     "title": "Milestone 2",
     "content": "Milestone 2 (the wheel): MLOps Infrastructure &amp; Advanced Training Workflows - Building Atomic Containers, Versioned Data Pipelines, and Scalable Computing Solutions . In this milestone, the focus is on developing a robust and scalable MLOps infrastructure. Teams will build atomic containers for various project components, design data pipelines with version control using tools like Apache Delta Lake, and integrate distributed computing solutions alongside cloud storage . Key dates: . | Due date: Sep 26th | . Objectives: . | Build Atomic Containers for Components: Create containerized solutions for various components using standalone containers that can run independently. This will include the development of atomic containers for individual applications and services involved in the project. | Construct Data Pipelines with Versioning: Design and implement a robust data pipeline that leverages Extract, Transform, Versioning tools like Delta Lake or Pachyderm/DVC. This will enable efficient data handling and version control within the project. | . Deliverables: . | Containerized Components: Fully-functional atomic containers for all individual components, aligned and ready for integration within the project architecture. | Virtual Environment Setup: Documented and implemented virtual machines and environments tailored to support the containerized components. | . ",
     "url": "/milestone2/",
     
     "relUrl": "/milestone2/"
-  },"19": {
+  },"20": {
     "doc": "Milestone 3",
     "title": "Milestone 3",
     "content": "Milestone 3 (steam engine): Building a Scalable and Modular Computing Infrastructure . In this milestone, the focus is on developing an advanced training workflows and TensorFlow-based data management will also be implemented to enhance machine learning capabilities and streamline the project’s complexities. Key dates: . | Due date: Oct 5th | . Objectives: . | Integrate Distributed Computing and Cloud Storage: Implement distributed computing solutions using tools like Dask, and align with cloud storage systems that support the scale and complexity of the project. | Utilize TensorFlow for Data Management: Implement TF Data and TF Records to enhance data ingestion and management within machine learning components of the project. | Develop Advanced Training Workflows: Implement and optimize complex training workflows including experiment tracking (W&amp;B), multi-GPU training, serverless training (Vertex AI), and Kubeflow. These should align with the machine learning components and training requirements of the project. | . Deliverables: . | Data Pipeline Implementation: A comprehensive data pipeline with extraction, transformation, and versioning capabilities, including examples of versioned datasets. | Distributed Computing and Storage Integration: Evidence of the implemented distributed computing system and cloud storage solutions, complete with documentation on their configuration and utilization. | Machine Learning Workflow Implementation: Detailed implementation of the advanced training workflows, with evidence of successful training runs, experiment tracking, and utilization of multi-GPU and serverless training. | . ",
     "url": "/milestone3/",
     
     "relUrl": "/milestone3/"
-  },"20": {
+  },"21": {
     "doc": "Milestone 4",
     "title": "Milestone 4",
     "content": "Milestone 4 (internal combustion engine): Midterm Presentation: Optimization, Monitoring, and Deployment of Scalable Data Solutions . Note: This milestone serves as the midterm presentation for AC215. This milestone focuses on the optimization, monitoring, and deployment aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced techniques and tools like TensorFlow Lite for model optimization and Kubeflow for machine learning workflows. The integration of a comprehensive performance monitoring system ensures ongoing reliability, and the creation of a “Mega Pipeline” application represents the culminating hands-on experience that brings all elements together in a cohesive, manageable structure. The fourth milestone builds on the foundational work of the first three, driving the project towards completion and ensuring readiness for real-world application. This will provide students with exposure to industry-standard best practices and hands-on experience with cutting-edge tools and methodologies. Key dates: . | Due date: Oct 24th | . Objectives: . | Distillation/Quantization/Compression, TF lite: Implement methods for model optimization such as distillation, quantization, and compression, using TensorFlow Lite. This will enable deployment in resource-constrained environments. | Model Performance Monitoring, Data Drift Awareness: Develop a comprehensive monitoring solution to continuously track model performance, detect data drift, and ensure awareness of other post-release factors that may impact the system. | Kubeflow and Cloud Functions Integration: Utilize Kubeflow for machine learning workflows and integrate cloud functions to automate and scale various processes within the project, aligning with cloud-native practices. | Build a Hands-on Mega Pipeline App: Design and create a scalable and comprehensive pipeline application that encapsulates all the elements of the project. This “Mega Pipeline” will serve as the unified interface for managing and executing various project components. | . Deliverables: . | Optimized Models: Models that have been distilled, quantized, or compressed using TensorFlow Lite, complete with performance benchmarks and analysis. | Performance Monitoring Solution: A well-documented monitoring system that provides insights into model performance, data drift, and other relevant factors. Includes alerting and reporting mechanisms. | Kubeflow &amp; Cloud Functions Implementation: Documentation and code showcasing the successful integration of Kubeflow for machine learning orchestration and cloud functions for process automation. | Mega Pipeline Application: A fully-functional CLI based mega pipeline application that serves as the control center for the project, enabling the seamless execution of various components from data ingestion to model deployment. Should include detailed documentation and user guides. | . ",
     "url": "/milestone4/",
     
     "relUrl": "/milestone4/"
-  },"21": {
+  },"22": {
     "doc": "Milestone 5",
     "title": "Milestone 5",
     "content": "Milestone 5 (hybrid and electric): Development, Deployment, and Scaling of Application . Milestone 5 emphasizes the final stages of the project, focusing on the development and deployment of a user-facing application that ties together the various components built in previous milestones. From designing an intuitive user interface to implementing scalable solutions with Kubernetes, this milestone ensures that the project is not only functional but also ready for real-world usage. Key dates: . | Due date: Nov 14th | . Objectives: . | App Design, Setup, and Code Organization: Design the overall architecture of the application, including its user interface, functionality, and underlying code structure. Focus on intuitive design and clean code organization to ensure maintainability and efficiency. | APIs &amp; Frontend Integration: Develop robust APIs that facilitate communication between the front end and back end of the application. Implement a responsive and user-friendly front-end interface that leverages these APIs to create a seamless user experience. | Deployment Strategy: Define and implement a comprehensive deployment strategy that ensures the application is readily available to end users. This includes setting up continuous integration and continuous deployment (CI/CD) pipelines and considering factors like security, performance, and reliability. | . Deliverables: . | Application Design Document: A detailed design document outlining the application’s architecture, user interface, and code organization principles. | APIs &amp; Frontend Implementation: Working code for the APIs and front-end interface, complete with documentation and testing to verify proper functionality. | . ",
     "url": "/milestone5/",
     
     "relUrl": "/milestone5/"
-  },"22": {
+  },"23": {
     "doc": "Milestone 6",
     "title": "Milestone 6",
     "content": "Milestone 6: AC215. Final Scaling, Deployment, and Project Presentation . The final milestone represents the culmination of the project, with a focus on perfecting the scaling and deployment aspects, and on communicating the project’s success. It ensures that the project is robust, scalable, and deployable, and that the team can effectively convey the significance and details of the project to diverse audiences. By completing this milestone, students demonstrate not only their technical mastery but also their ability to present complex projects in an accessible way. The inclusion of a GitHub repository and blog post ensures that the project has a lasting impact, providing a valuable resource for others in the field. The final milestone is a comprehensive reflection of the skills, knowledge, and experiences gained throughout the project, embodying a holistic approach to modern software development and deployment. It provides a fitting conclusion to the project, reflecting both the technical achievements and the broader educational objectives. Key dates: . | Due date: Dec 12th | . Objectives: . | Scaling with Kubernetes: Continue to refine and expand the Kubernetes-based scaling solution. Ensure that the application can handle real-world scenarios and peak loads efficiently. | Deployment with Ansible: Implement an automated deployment solution using Ansible. This will enable streamlined deployment processes, configuration management, and ensure consistency across different environments. | Presentation of the Project: Prepare and deliver a comprehensive presentation that highlights the project’s objectives, design, implementation, challenges, and achievements. | GitHub Repository: Organize and publish all code, documentation, and relevant assets in a GitHub repository, ensuring that it’s well-structured and includes clear instructions for anyone who wants to replicate or learn from the project. | Blog Post: Write an informative and engaging blog post summarizing the project, the technologies used, lessons learned, and the overall experience. This can serve as a public showcase of the project and the methodologies employed. | . Deliverables: . | Deployment Plan and Execution: A documented deployment plan, along with evidence of successful deployment, including CI/CD pipelines, monitoring, and other deployment best practices. | Kubernetes Scaling Solution: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios. | Project Presentation: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project, suitable for both technical and non-technical audiences. | GitHub Repository: A well-organized GitHub repository containing all the project’s code, documentation, related resources, and a professional README. | Medium Post: A published Medium post that encapsulates the essence of the project, written in a style that appeals to a broad audience. | . ",
     "url": "/milestone6/",
     
     "relUrl": "/milestone6/"
-  },"23": {
+  },"24": {
     "doc": "Projects",
     "title": "Milestones",
     "content": "Project Milestones - Overview . | Milestones | Brief Description | Due Date | Grade % | . | MS1 | Project Proposals, Team formation - Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19. | 09/14 | 5 | . | MS2 | MLOps Infrastructure &amp; Advanced Training Workflows - Building atomic containers, versioned data pipelines, and scalable computing solutions. | 09/26 | 10 | . | MS3 | Scalable and Moduler Computing Infrastructure - Extending advanced training workflows with Tensorflow, experiment tracking, multi-GPU training and serverless training. | 10/05 | 15 | . | MS4 | Midterm Presentation - Presenting a fully functional CLI-based mega pipeline application with model optimization, performance monitoring, and severless inference. | 10/24 | 25 | . | MS5 | Full-Stack Development - Design a user-friendly frontend developed around working API calls and design documents. | 11/14 | 10 | . | MS6 | Final Presentation and Deliverables - Students will finish by working through deployment and scaling, documenting the project through a published Medium post, a 6-minute video presentation, and a well-organized GitHub repository. | 12/12 | 35 | . Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach. ",
     "url": "/projects/#milestones",
     
     "relUrl": "/projects/#milestones"
-  },"24": {
+  },"25": {
     "doc": "Projects",
     "title": "Projects",
     "content": " ",
     "url": "/projects/",
     
     "relUrl": "/projects/"
-  },"25": {
+  },"26": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": "Overall schedule . ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"26": {
+  },"27": {
     "doc": "Schedule",
     "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
     "content": "Sep 05 Introduction Lecture 1 Sep 07 Virtual Environments and Virtual Machines Lecture 2 ",
     "url": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines",
     
     "relUrl": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines"
-  },"27": {
+  },"28": {
     "doc": "Schedule",
     "title": "Week 2 - Containers",
     "content": "Sep 12 Containers I Lecture 3 M 1 due Sep 14 Containers II Lecture 4 ",
     "url": "/schedule/#week-2-containers",
     
     "relUrl": "/schedule/#week-2-containers"
-  },"28": {
+  },"29": {
     "doc": "Schedule",
     "title": "Week 3 - Data",
     "content": "Sep 19 Data Pipelines, Extract, Transform, Versioning (e.g: Apache Delta Lake, Pachyderm/DVC) Lecture 5 Sep 21 Dask, Cloud Storage Lecture 6 ",
     "url": "/schedule/#week-3-data",
     
     "relUrl": "/schedule/#week-3-data"
-  },"29": {
+  },"30": {
     "doc": "Schedule",
     "title": "Week 4 - Data and Models",
     "content": "Sep 26 TF Data and TF Records Lecture 7 M 2 due Sep 28 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), kubeflow Lecture 8 ",
     "url": "/schedule/#week-4-data-and-models",
     
     "relUrl": "/schedule/#week-4-data-and-models"
-  },"30": {
+  },"31": {
     "doc": "Schedule",
     "title": "Week 5 - Project Week",
     "content": ": M 3 due . ",
     "url": "/schedule/#week-5-project-week",
     
     "relUrl": "/schedule/#week-5-project-week"
-  },"31": {
+  },"32": {
     "doc": "Schedule",
     "title": "Week 6 - Model",
     "content": "Oct 10 Distillation/Quantization/Compression, TF lite Lecture 9 Oct 12 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
     "url": "/schedule/#week-6-model",
     
     "relUrl": "/schedule/#week-6-model"
-  },"32": {
+  },"33": {
     "doc": "Schedule",
     "title": "Week 7 - ML Workflow Management",
     "content": "Oct 17 Kubeflow, cloud functions Lecture 11 Oct 19 Hands on Mega Pipeline App Lecture 12 ",
     "url": "/schedule/#week-7-ml-workflow-management",
     
     "relUrl": "/schedule/#week-7-ml-workflow-management"
-  },"33": {
+  },"34": {
     "doc": "Schedule",
     "title": "Week 8 - Midterm presentations",
     "content": "Oct 26 Midterm presentations M 4 due ",
     "url": "/schedule/#week-8-midterm-presentations",
     
     "relUrl": "/schedule/#week-8-midterm-presentations"
-  },"34": {
+  },"35": {
     "doc": "Schedule",
     "title": "Week 9 - App Development",
     "content": "Oct 31 App design, setup and code organization Lecture 13 Nov 2 APIs &amp; Frontend Lecture 14 ",
     "url": "/schedule/#week-9-app-development",
     
     "relUrl": "/schedule/#week-9-app-development"
-  },"35": {
+  },"36": {
     "doc": "Schedule",
     "title": "Week 10 - App Development",
     "content": "Nov 7 APIs &amp; Frontend Lecture 15 Nov 9 Deployment Lecture 16 ",
     "url": "/schedule/#week-10-app-development",
     
     "relUrl": "/schedule/#week-10-app-development"
-  },"36": {
+  },"37": {
     "doc": "Schedule",
     "title": "Week 11 - Scaling &amp; Deployment",
     "content": "Nov 14 Scaling: Kubernetes Lecture 17 M 5 due Nov 16 Projects ",
     "url": "/schedule/#week-11-scaling-deployment",
     
     "relUrl": "/schedule/#week-11-scaling-deployment"
-  },"37": {
+  },"38": {
     "doc": "Schedule",
     "title": "Week 12 - Thanks giving",
     "content": " ",
     "url": "/schedule/#week-12-thanks-giving",
     
     "relUrl": "/schedule/#week-12-thanks-giving"
-  },"38": {
+  },"39": {
     "doc": "Schedule",
     "title": "Week 13 - Scaling &amp; Deployment",
     "content": "Nov 28 Scaling: Kubernetes Lecture 18 Nov 30 Deployment: Ansible Lecture 19 ",
     "url": "/schedule/#week-13-scaling-deployment",
     
     "relUrl": "/schedule/#week-13-scaling-deployment"
-  },"39": {
+  },"40": {
     "doc": "Schedule",
     "title": "Week 14 -  Projects",
     "content": " ",
     "url": "/schedule/#week-14-projects",
     
     "relUrl": "/schedule/#week-14-projects"
-  },"40": {
+  },"41": {
     "doc": "Schedule",
     "title": "Week 15 - Presentations",
     "content": "Dec 12 Presentations M 6 due ",
     "url": "/schedule/#week-15-presentations",
     
     "relUrl": "/schedule/#week-15-presentations"
-  },"41": {
+  },"42": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"42": {
+  },"43": {
     "doc": "Staff / Contact",
     "title": "Instructor",
     "content": "Pavlos Protopapas . https://www.stellardnn.org/ . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"43": {
+  },"44": {
     "doc": "Staff / Contact",
     "title": "Contact",
     "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"44": {
+  },"45": {
     "doc": "Staff / Contact",
     "title": "Office Hours",
     "content": "TBD . ",
     "url": "/staff/#office-hours",
     
     "relUrl": "/staff/#office-hours"
-  },"45": {
+  },"46": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
     "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Shivas Jayaram . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"46": {
+  },"47": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
