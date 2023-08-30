@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   Canvas:
     - 'https://canvas.harvard.edu/'
+  Ed:
+    - 'https://canvas.harvard.edu/courses/130525/external_tools/78506?display=borderless'
   AC215, CSCIE-115 on GitHub:
     - 'https://github.com/Harvard-IACS/2023-AC215'
 footer_content:

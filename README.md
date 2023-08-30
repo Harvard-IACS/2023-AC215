@@ -188,6 +188,9 @@ The heart of this course is experiential learning. We fervently believe that you
 
 5. **Feedback & Evaluation:**
    - Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Do provide feedback on the course structure, content, and delivery, so we can continually improve.
+
+
+
 ## Accessibility:
 
 We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible.
