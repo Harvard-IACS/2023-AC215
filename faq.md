@@ -5,14 +5,15 @@ description: Frequently Asked Questions.
 nav_order: 5
 ---
 
-**Do I have access to the video recorded materials?**
+**Can I view the video recordings for the course?**
 
-Yes. All AC215 / CSCIE-115 students have access to all the video captured materials.
+Absolutely. All students enrolled in AC215 / CSCIE-115 have access to video recordings for the course.
 
-**Is there a GitHub repo for the class?**
+**Is there a class GitHub repository?**
 
-Yes. https://github.com/Harvard-IACS/2023-AC215 
+Indeed. You can find it at [https://github.com/Harvard-IACS/2023-AC215](https://github.com/Harvard-IACS/2023-AC215).
 
-**I’m unable to attend lectures in person. Is attendance mandatory ?**
+**Is it necessary for me to be present for the live lectures?**
 
-Attendance is not mandatory. Lectures are recorded, however you do miss out on interaction with Professors and other students. 
+While university policies require all AC215 students to attend the lectures, we don't officially record attendance. It's worth mentioning that all lectures are videotaped, so you can watch them later if you can't attend. However, missing the live sessions means you'll miss the opportunity for real-time interaction with the instructors and your classmates.
+
