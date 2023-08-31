@@ -25,9 +25,7 @@ Overall schedule
 #### Consent:
 By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy.
 
----
 
-Feel free to modify this sample policy to better align with your specific needs and institutional guidelines.
 
 {% for module in site.modules %}
 {{ module }}
