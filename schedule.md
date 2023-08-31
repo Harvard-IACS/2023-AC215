@@ -9,10 +9,6 @@ nav_order: 1
 
 Overall schedule
 
-Certainly! Crafting a policy for usage of publicly available class material is important for ensuring that the resources you've created are utilized in the manner you intend. Below is a sample policy that you might include in your syllabus, class website, or as a disclaimer accompanying the publicly available material:
-
----
-
 ### Policy on Usage of Publicly Available Class Material
 
 1. **Permitted Use**: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
