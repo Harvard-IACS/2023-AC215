@@ -20,7 +20,7 @@ seo:
 
 ---
 
-<span style="color:red">IMPORTANT❗ - Draft  Version 8/30/2023 </span>
+<span style="color:red">IMPORTANT❗ - Draft  Version 9/1/2023 </span>
 ​
 
 ## Course Introduction

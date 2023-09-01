@@ -10,7 +10,6 @@ Sep 07
 : Virtual Environments and Virtual Machines
   : [Lecture 2](../assets/lectures/lecture1/under-construction-gif-17.gif)
 
-
 <!-- 
 **Demo**{: .label .label-purple }
 Sep 30
