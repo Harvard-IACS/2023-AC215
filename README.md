@@ -157,7 +157,7 @@ The heart of this course is experiential learning. We fervently believe that you
 
 
 
-## Grade distribution 
+## Grade Distribution 
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
