@@ -8,7 +8,7 @@ Sep 05
 
 Sep 07
 : Virtual Environments and Virtual Machines
-  : [Lecture 2](assets/lectures/AC215 Lecture 2 Placeholder.pdf)
+  : [Lecture 2](../assets/lectures/lecture1/under-construction-gif-17.gif)
 
 
 <!-- 
