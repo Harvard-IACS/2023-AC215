@@ -156,6 +156,21 @@ In the dynamic realm of AI and MLOps, hands-on experience is paramount. This cou
 The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can equip you with the tangible skills essential in today's AI-driven world. 
 
 
+
+## Grade distribution 
+
+| Milestone                                                    | Weight |
+| ------------------------------------------------------------ | ------ |
+| [MS1](https://harvard-iacs.github.io/2023-AC215/milestone1/) | 5      |
+| [MS2](https://harvard-iacs.github.io/2023-AC215/milestone2/) | 10     |
+| [MS3](https://harvard-iacs.github.io/2023-AC215/milestone3/) | 15     |
+| [MS4](https://harvard-iacs.github.io/2023-AC215/milestone4/) | 25     |
+| [MS5](https://harvard-iacs.github.io/2023-AC215/milestone5/) | 10     |
+| [MS6](https://harvard-iacs.github.io/2023-AC215/milestone6/) | 35     |
+
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2023-AC215/projects/).
+
+
 ## Course Policies  
 
 
