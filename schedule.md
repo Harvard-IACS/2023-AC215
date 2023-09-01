@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule
+title: Schedule and Calendar
 description: Listing of course modules and topics.
 nav_order: 1
 ---
 
-# Schedule
+# Schedule and Calendar
 
 Overall schedule can be found [here](/assets/images/ContentOutline.pdf) and calendar [here](https://harvard-iacs.github.io/2023-AC215/assets/images/AC215%20-%20Schedule.svg).
 
