@@ -7,7 +7,7 @@ nav_order: 1
 
 # Schedule
 
-Overall schedule can be found [here](/assets/images/ContentOutline.png) and calendar [here](https://harvard-iacs.github.io/2023-AC215/assets/images/AC215%20-%20Schedule.svg).
+Overall schedule can be found [here](/assets/images/ContentOutline.pdf) and calendar [here](https://harvard-iacs.github.io/2023-AC215/assets/images/AC215%20-%20Schedule.svg).
 
 
 
