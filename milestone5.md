@@ -15,12 +15,23 @@ Milestone 5 emphasizes the final stages of the project, focusing on the developm
 
 ### Objectives:
 
-- **App Design, Setup, and Code Organization**: Design the overall architecture of the application, including its user interface, functionality, and underlying code structure. Focus on intuitive design and clean code organization to ensure maintainability and efficiency.
-- **APIs & Frontend Integration**: Develop robust APIs that facilitate communication between the front end and back end of the application. Implement a responsive and user-friendly front-end interface that leverages these APIs to create a seamless user experience.
-- **Deployment Strategy**: Define and implement a comprehensive deployment strategy that ensures the application is readily available to end users. This includes setting up continuous integration and continuous deployment (CI/CD) pipelines and considering factors like security, performance, and reliability.
+- **App Design, Setup, and Code Organization**: 
+Design the overall architecture of the application, including its user interface, functionality, and underlying code structure. Focus on intuitive design and clean code organization to ensure maintainability and efficiency.
+
+- **APIs & Frontend Integration**: 
+Develop robust APIs that facilitate communication between the front end and back end of the application. Implement a responsive and user-friendly front-end interface that leverages these APIs to create a seamless user experience.
+
+- **Deployment Strategy**: 
+Define and implement a comprehensive deployment strategy that ensures the application is readily available to end users. This includes setting up continuous integration and continuous deployment (CI/CD) pipelines and considering factors like security, performance, and reliability.
 
 ### Deliverables:
 
-- **Application Design Document**: A detailed design document outlining the application's architecture, user interface, and code organization principles.
+- **Application Design Document**: 
+A detailed design document outlining the application's architecture, user interface, and code organization principles. The design should include the following
+    - Solution Architecture
+    - Technical Architecture
 
-- **APIs & Frontend Implementation**: Working code for the APIs and front-end interface, complete with documentation and testing to verify proper functionality.
+- **APIs & Frontend Implementation**: 
+Working code for the APIs and front-end interface, complete with documentation and testing to verify proper functionality. The following should be included
+    - Github repo with all you code
+    - Readme file describing all the components of your application
