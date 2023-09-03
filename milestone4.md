@@ -10,9 +10,11 @@ nav_order: 4
 
 
 
-This milestone focuses on the optimization, monitoring, and deployment aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced techniques and tools like TensorFlow Lite for model optimization and Kubeflow for machine learning workflows. The integration of a comprehensive performance monitoring system ensures ongoing reliability, and the creation of a "Mega Pipeline" application represents the culminating hands-on experience that brings all elements together in a cohesive, manageable structure.
+This milestone focuses on the optimization, monitoring, and deployment aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced techniques and tools like TensorFlow Lite for model optimization and Kubeflow for machine learning workflows. The integration of a comprehensive performance monitoring system ensures ongoing reliability, and the creation of a "Mega Pipeline" application represents the culminating hands-on experience that brings all elements together in a cohesive, manageable structure. 
 
 The fourth milestone builds on the foundational work of the first three, driving the project towards completion and ensuring readiness for real-world application. This will provide students with exposure to industry-standard best practices and hands-on experience with cutting-edge tools and methodologies.
+
+Finally, the milestone serves as an opportunity to practice presenting information to a technical audience in an engaging and concise manner. 
 
 ### Key dates:
 
@@ -28,6 +30,8 @@ The fourth milestone builds on the foundational work of the first three, driving
 
 - **Build a Hands-on Mega Pipeline App**: Design and create a scalable and comprehensive pipeline application that encapsulates all the elements of the project. This "Mega Pipeline" will serve as the unified interface for managing and executing various project components.
 
+- **Presenting a Technical Project**: Create a presentation that concisely covers what has been accomplished up to this point, and what the plan is for next steps. Here are some useful questions to think about when creating the presentation: Who is the audience (technical or non-technical), and what information can you expect them to know (and not know) going into the presentation? What’s the story that you are trying to tell? How are you planning to tell that story? What do you want the audience to take away from the presentation?
+
 ### Deliverables:
 
 - **Optimized Models**: Models that have been distilled, quantized, or compressed using TensorFlow Lite, complete with performance benchmarks and analysis.
@@ -37,3 +41,5 @@ The fourth milestone builds on the foundational work of the first three, driving
 - **Kubeflow & Cloud Functions Implementation**: Documentation and code showcasing the successful integration of Kubeflow for machine learning orchestration and cloud functions for process automation.
 
 - **Mega Pipeline Application**: A fully-functional CLI based mega pipeline application that serves as the control center for the project, enabling the seamless execution of various components from data ingestion to model deployment. Should include detailed documentation and user guides.
+
+- **Presentation**: A 7 minute presentation that includes a walk-through of the work that has been completed, and a brief outline of next steps. Be prepared for 3 additional minutes of questions at the end.
