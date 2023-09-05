@@ -2,7 +2,7 @@
 layout: page
 title: Staff / Contact
 description: A listing of all the course staff members.
-nav_order: 4
+nav_order: 5
 ---
 
 # Staff

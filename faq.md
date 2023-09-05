@@ -2,7 +2,7 @@
 layout: page
 title: FAQs
 description: Frequently Asked Questions.
-nav_order: 5
+nav_order: 6
 ---
 
 **Can I view the video recordings for the course?**
