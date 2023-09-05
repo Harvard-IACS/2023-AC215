@@ -10,12 +10,13 @@ nav_order: 1
 Overall schedule can be found [here](/assets/images/ContentOutline.pdf) and calendar [here](https://harvard-iacs.github.io/2023-AC215/assets/images/AC215%20-%20Schedule.svg).
 
 
-
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
 
+### Setup & Installation
 
+Refer to the [setup and installtion document](https://docs.google.com/document/d/1ixys_vzy5msA1oqRc3-YDKxt-nhSSSv3at1z0qQk8-I/edit?usp=sharing) for a full list of softwares and tools we will be using in this class
 
 ### Policy on Usage of Publicly Available Class Material
 

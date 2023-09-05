@@ -115,11 +115,6 @@ It's important to note that while prior knowledge in these areas will provide a 
    ​
 
 
-## Setup & Installation
-
-Refer to the [setup and installtion document](https://docs.google.com/document/d/1ixys_vzy5msA1oqRc3-YDKxt-nhSSSv3at1z0qQk8-I/edit?usp=sharing) for a full list of softwares and tools we will be using in this class
-
-
 ## Course Components
 
 - **Weekly Sessions:** Structured lectures focusing on the core topics.
