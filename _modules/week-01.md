@@ -4,7 +4,7 @@ title: Week 1 - Introduction, Virtual Environments and Virtual Machines
 
 Sep 05
 : Introduction
- DRAFT 9/4 : [Lecture 1](../assets/lectures/lecture1/01_introduction.pdf) 
+ : [Lecture 1](../assets/lectures/lecture1/01_introduction.pdf) 
 
 Sep 07
 : Virtual Environments and Virtual Machines
