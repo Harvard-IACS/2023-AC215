@@ -39,7 +39,7 @@ In today's AI-driven world, building a robust deep learning model is only half t
 
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](https://docs.google.com/spreadsheets/d/1dGMKu5OZlRxtQPdrlxb9DENZz6wNcIS_e6Xq4z83Zto/edit?usp=sharing) for a full list of topics):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
 
 
 1. **Introduction:** 
