@@ -42,4 +42,4 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 - **Mega Pipeline Application**: A fully-functional CLI based mega pipeline application that serves as the control center for the project, enabling the seamless execution of various components from data ingestion to model deployment. Should include detailed documentation and user guides.
 
-- **Presentation**: A 7 minute presentation that includes a walk-through of the work that has been completed, and a brief outline of next steps. Be prepared for 3 additional minutes of questions at the end.
+- **Presentation**: A 4-5 minute presentation that includes a brief overview of the project to help orient the audience, a walk-through of the work that has been completed, and a brief outline of next steps. The walk-through does not need to be a live demo (it can be a set of well-made, visually-pleasing slides), but it should make sure to showcase and highlight the various components that have been built. Be prepared for 3 additional minutes of questions at the end.
