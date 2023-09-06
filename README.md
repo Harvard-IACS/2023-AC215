@@ -31,7 +31,7 @@ In today's AI-driven world, building a robust deep learning model is only half t
 
 ## Lectures
 
-- **Location:** SEC LL2.224 Lecture Hall (Lower Level 2, room 2.224, 150 Western Ave, Boston)
+- **Location:** SEC 1.321/Winokur, 150 Western Ave, Boston
 
 - **Meeting Time:** Tuesday 03:45 PM - 05:00 PM; Thursday 03:45 PM - 05:00 PM
 
