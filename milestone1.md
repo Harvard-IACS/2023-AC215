@@ -130,7 +130,7 @@ Statements of Work that do not include both a well-defined scope and a prelimina
 
 
  **Deliverables:**
- Submit a PDF or word document of your proposal on canvas by the end of the day on **Sep 14th.**
+ Submit a PDF of your proposal on canvas by 9:00 PM EST on **Sep 14th.**
 
 
 
