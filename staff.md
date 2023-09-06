@@ -27,7 +27,7 @@ nav_order: 5
 For administrative or logistical questions, please e-mail class Helpline at [ac215.2023@gmail.com](mailto:ac215.2023@gmail.com) 
 
 ## Office Hours 
-TBD 
+(See Ed) 
 
 ## Course Staff
 {% for staffer in teaching_headtf %}

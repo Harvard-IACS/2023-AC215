@@ -53,7 +53,7 @@ Clearly outline the problem or question your project aims to solve. Make sure th
 
 - Format: PDF
 
-- Submit via [TBD]
+- Submit via Canvas
 
   
 
