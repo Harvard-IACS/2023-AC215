@@ -8,7 +8,7 @@ Sep 05
 
 Sep 07
 : Virtual Environments and Virtual Machines
-  : [Lecture 2](../assets/lectures/lecture1/01_virtual_machines_virtual_environments.pdf)
+  : [Lecture 2](../assets/lectures/lecture2/01_virtual_machines_virtual_environments.pdf)
 
 <!-- 
 **Demo**{: .label .label-purple }
