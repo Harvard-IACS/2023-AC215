@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Virtual Machines
 
-### Setup/Instations (OPTIONAL)
+### Setup/Installations (OPTIONAL)
 - [How to Install a Windows 10 on Your Mac](https://towardsdatascience.com/how-to-install-a-free-windows-virtual-machine-on-your-mac-bf7cbc05888e)
 - [Enable Virtual Machines in Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
