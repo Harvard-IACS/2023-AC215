@@ -246,14 +246,14 @@
   },"35": {
     "doc": "Schedule and Calendar",
     "title": "Week 2 - Containers",
-    "content": "Sep 12 Containers I Lecture 3 M 1 due Sep 14 Containers II Lecture 4 ",
+    "content": "Sep 12 Containers I Lecture 3 Sep 14 Containers II Lecture 4 M 1 due ",
     "url": "/schedule/#week-2-containers",
     
     "relUrl": "/schedule/#week-2-containers"
   },"36": {
     "doc": "Schedule and Calendar",
     "title": "Week 3 - Data",
-    "content": "Sep 19 Data Pipelines, Extract, Transform, Versioning (e.g: Apache Delta Lake, Pachyderm/DVC) Lecture 5 Sep 21 Dask, Cloud Storage Lecture 6 ",
+    "content": "Sep 19 Data Pipelines: Extract, Transform, Labeling, Versioning Lecture 5 Sep 21 Dask Lecture 6 ",
     "url": "/schedule/#week-3-data",
     
     "relUrl": "/schedule/#week-3-data"
