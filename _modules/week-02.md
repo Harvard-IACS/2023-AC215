@@ -4,7 +4,7 @@ title: Week 2 - Containers
 
 Sep 12
 : Containers I
-  : [Lecture 3](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
+  : [Lecture 3](../assets/lectures/lecture3/02_containers_part1.pdf)
 
 Sep 14
 : Containers II
