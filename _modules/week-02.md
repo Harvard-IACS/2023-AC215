@@ -8,5 +8,5 @@ Sep 12
 
 Sep 14
 : Containers II
-  : [Lecture 4](../assets/lectures/lecture3/02_containers_part2.pdf)
+  : [Lecture 4](../assets/lectures/lecture4/02_containers_part2.pdf)
 : [**M 1 due**](https://harvard-iacs.github.io/2023-AC215/milestone1/){: .label .label-red }
