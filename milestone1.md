@@ -55,10 +55,6 @@ Clearly outline the problem or question your project aims to solve. Make sure th
 
 - Submit via Canvas
 
-  
-
- Your draft provides a good outline for what students need to consider regarding the data for their projects. However, it might be beneficial to structure it a bit more for clarity. Here's a revised version with some suggestions:
-
 ---
 
 #### Step 3: Discuss Data Sources
