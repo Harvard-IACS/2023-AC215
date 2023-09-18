@@ -13,6 +13,8 @@ In this milestone, the focus is on developing a robust and scalable MLOps infras
 
 - Due date: Sep 26th
 
+### Template Repository: 
+
 ### Objectives:
 
 - **Build Atomic Containers for Components**: Create containerized solutions for various components using standalone containers that can run independently. This will include the development of containers for individual applications and services involved in the project.
