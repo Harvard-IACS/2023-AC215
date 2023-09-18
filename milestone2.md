@@ -15,6 +15,10 @@ In this milestone, the focus is on developing a robust and scalable MLOps infras
 
 ### Template Repository: 
 
+### Submission Instructions: 
+
+- Please see Ed
+
 ### Objectives:
 
 - **Build Atomic Containers for Components**: Create containerized solutions for various components using standalone containers that can run independently. This will include the development of containers for individual applications and services involved in the project.
@@ -24,3 +28,4 @@ In this milestone, the focus is on developing a robust and scalable MLOps infras
 
 - **Containerized Components**: Fully-functional atomic containers for all individual components, aligned and ready for integration within the project architecture.
 - **Virtual Environment Setup**: Documented and implemented virtual machines and environments tailored to support the containerized components.
+
