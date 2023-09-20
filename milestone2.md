@@ -13,7 +13,7 @@ In this milestone, the focus is on developing a robust and scalable MLOps infras
 
 - Due date: Sep 26th
 
-### Template Repository: 
+### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone2)
 
 ### Submission Instructions: 
 
