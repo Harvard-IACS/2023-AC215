@@ -30,3 +30,24 @@ nav_order: 4
 - [Software Development with Docker](http://dockerlabs.collabnix.com/docker/Docker_VIT_Intro/Docker_VIT_Intro.html)
 - [Make Code Accessible with these Cloud Services](https://www.nature.com/articles/d41586-019-03366-x)
 - [Install Dockers on Windows 10 Home](https://docs.docker.com/docker-for-windows/install-windows-home/)
+
+## Dask
+
+### Readings
+
+- [Dockers Getting Started](https://github.com/docker/getting-started)
+- [Why every Data Scientist should use Dask?](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b) - If you love Pandas dataframes then you will love Dask. Think of Dask as Dataframes on steroids
+- [Pandas, Dask or PySpark? What Should You Choose for Your Dataset?](https://medium.com/datadriveninvestor/pandas-dask-or-pyspark-what-should-you-choose-for-your-dataset-c0f67e1b1d36) - This is a good overview on when to use which tool/framework
+
+### References (OPTIONAL):
+
+- [Dask Tutorial](https://tutorial.dask.org/)
+
+## TF Data, TF Records: 
+
+### Readings
+- [Building high performance data pipelines to train machine learning models](https://www.linkedin.com/pulse/building-high-performance-data-pipelines-train-models-bhattacharya/) - Overview of creating TF Data  & TF Records for building efficient data pipelines in your Deep Learning Models
+
+### References (OPTIONAL):
+
+- [tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)

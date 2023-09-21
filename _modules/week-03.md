@@ -9,4 +9,4 @@ Sep 19
 
 Sep 21
 : Dask	
-  : [Lecture 6](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
+  : [Lecture 6](../assets/lectures/lecture6/03_data2_dask.pdf)
