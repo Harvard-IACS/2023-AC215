@@ -224,159 +224,173 @@
     "relUrl": "/readings/#containers"
   },"32": {
     "doc": "Readings",
+    "title": "Dask",
+    "content": "Readings . | Dockers Getting Started | Why every Data Scientist should use Dask? - If you love Pandas dataframes then you will love Dask. Think of Dask as Dataframes on steroids | Pandas, Dask or PySpark? What Should You Choose for Your Dataset? - This is a good overview on when to use which tool/framework | . References (OPTIONAL): . | Dask Tutorial | . ",
+    "url": "/readings/#dask",
+    
+    "relUrl": "/readings/#dask"
+  },"33": {
+    "doc": "Readings",
+    "title": "TF Data, TF Records:",
+    "content": "Readings . | Building high performance data pipelines to train machine learning models - Overview of creating TF Data &amp; TF Records for building efficient data pipelines in your Deep Learning Models | . References (OPTIONAL): . | tf.data: Build TensorFlow input pipelines | . ",
+    "url": "/readings/#tf-data-tf-records",
+    
+    "relUrl": "/readings/#tf-data-tf-records"
+  },"34": {
+    "doc": "Readings",
     "title": "Readings",
     "content": " ",
     "url": "/readings/",
     
     "relUrl": "/readings/"
-  },"33": {
+  },"35": {
     "doc": "Schedule and Calendar",
     "title": "Schedule and Calendar",
     "content": "Overall schedule can be found here and calendar here. ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"34": {
+  },"36": {
     "doc": "Schedule and Calendar",
     "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
     "content": "Sep 05 Introduction Lecture 1 ,   Setup &amp; Installation Sep 07 Virtual Environments and Virtual Machines Lecture 2 ",
     "url": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines",
     
     "relUrl": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines"
-  },"35": {
+  },"37": {
     "doc": "Schedule and Calendar",
     "title": "Week 2 - Containers",
     "content": "Sep 12 Containers I Lecture 3 Sep 14 Containers II Lecture 4 M 1 due ",
     "url": "/schedule/#week-2-containers",
     
     "relUrl": "/schedule/#week-2-containers"
-  },"36": {
+  },"38": {
     "doc": "Schedule and Calendar",
     "title": "Week 3 - Data",
     "content": "Sep 19 Data Pipelines: Extract, Transform, Labeling, Versioning Lecture 5 Sep 21 Dask Lecture 6 ",
     "url": "/schedule/#week-3-data",
     
     "relUrl": "/schedule/#week-3-data"
-  },"37": {
+  },"39": {
     "doc": "Schedule and Calendar",
     "title": "Week 4 - Data and Models",
     "content": "Sep 26 TF Data and TF Records Lecture 7 M 2 due Sep 28 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), kubeflow Lecture 8 ",
     "url": "/schedule/#week-4-data-and-models",
     
     "relUrl": "/schedule/#week-4-data-and-models"
-  },"38": {
+  },"40": {
     "doc": "Schedule and Calendar",
     "title": "Week 5 - Project Week",
     "content": "M 3 due . ",
     "url": "/schedule/#week-5-project-week",
     
     "relUrl": "/schedule/#week-5-project-week"
-  },"39": {
+  },"41": {
     "doc": "Schedule and Calendar",
     "title": "Week 6 - Model",
     "content": "Oct 10 Distillation/Quantization/Compression, TF lite Lecture 9 Oct 12 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
     "url": "/schedule/#week-6-model",
     
     "relUrl": "/schedule/#week-6-model"
-  },"40": {
+  },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 7 - ML Workflow Management",
     "content": "Oct 17 Kubeflow, cloud functions Lecture 11 Oct 19 Hands on Mega Pipeline App Lecture 12 ",
     "url": "/schedule/#week-7-ml-workflow-management",
     
     "relUrl": "/schedule/#week-7-ml-workflow-management"
-  },"41": {
+  },"43": {
     "doc": "Schedule and Calendar",
     "title": "Week 8 - Midterm presentations",
     "content": "Oct 26 Midterm presentations M 4 due ",
     "url": "/schedule/#week-8-midterm-presentations",
     
     "relUrl": "/schedule/#week-8-midterm-presentations"
-  },"42": {
+  },"44": {
     "doc": "Schedule and Calendar",
     "title": "Week 9 - App Development",
     "content": "Oct 31 App design, setup and code organization Lecture 13 Nov 2 APIs &amp; Frontend Lecture 14 ",
     "url": "/schedule/#week-9-app-development",
     
     "relUrl": "/schedule/#week-9-app-development"
-  },"43": {
+  },"45": {
     "doc": "Schedule and Calendar",
     "title": "Week 10 - App Development",
     "content": "Nov 7 APIs &amp; Frontend Lecture 15 Nov 9 Deployment Lecture 16 ",
     "url": "/schedule/#week-10-app-development",
     
     "relUrl": "/schedule/#week-10-app-development"
-  },"44": {
+  },"46": {
     "doc": "Schedule and Calendar",
     "title": "Week 11 - Scaling &amp; Deployment",
     "content": "Nov 14 Scaling: Kubernetes Lecture 17 M 5 due Nov 16 Projects ",
     "url": "/schedule/#week-11-scaling-deployment",
     
     "relUrl": "/schedule/#week-11-scaling-deployment"
-  },"45": {
+  },"47": {
     "doc": "Schedule and Calendar",
     "title": "Week 12 - Thanks giving",
     "content": " ",
     "url": "/schedule/#week-12-thanks-giving",
     
     "relUrl": "/schedule/#week-12-thanks-giving"
-  },"46": {
+  },"48": {
     "doc": "Schedule and Calendar",
     "title": "Week 13 - Scaling &amp; Deployment",
     "content": "Nov 28 Scaling: Kubernetes Lecture 18 Nov 30 Deployment: Ansible Lecture 19 ",
     "url": "/schedule/#week-13-scaling-deployment",
     
     "relUrl": "/schedule/#week-13-scaling-deployment"
-  },"47": {
+  },"49": {
     "doc": "Schedule and Calendar",
     "title": "Week 14 -  Projects",
     "content": " ",
     "url": "/schedule/#week-14-projects",
     
     "relUrl": "/schedule/#week-14-projects"
-  },"48": {
+  },"50": {
     "doc": "Schedule and Calendar",
     "title": "Week 15 - Presentations",
     "content": "Dec 12 Presentations M 6 due Setup &amp; Installation . Refer to the setup and installtion document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/schedule/#week-15-presentations",
     
     "relUrl": "/schedule/#week-15-presentations"
-  },"49": {
+  },"51": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"50": {
+  },"52": {
     "doc": "Staff / Contact",
     "title": "Instructor",
     "content": "Pavlos Protopapas . https://www.stellardnn.org/ . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"51": {
+  },"53": {
     "doc": "Staff / Contact",
     "title": "Contact",
     "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"52": {
+  },"54": {
     "doc": "Staff / Contact",
     "title": "Office Hours",
     "content": "(See Ed) . ",
     "url": "/staff/#office-hours",
     
     "relUrl": "/staff/#office-hours"
-  },"53": {
+  },"55": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
     "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Matthew Nazari . Shivas Jayaram . Tale Lokvenec . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"54": {
+  },"56": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
