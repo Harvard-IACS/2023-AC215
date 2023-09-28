@@ -9,4 +9,4 @@ Sep 26
 
 Sep 28
 : Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), kubeflow
-  : [Lecture 8](assets/lectures/AC215 Lecture 8 Placeholder.pdf)
+  : [Lecture 8](../assets/lectures/lecture8/04_model1_advanced_training.pdf)
