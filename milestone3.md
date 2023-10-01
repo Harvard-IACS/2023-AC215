@@ -12,6 +12,12 @@ In this milestone, the focus is on developing an advanced training workflows and
 
 - Due date: Oct 5th
 
+### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone3)
+
+### Submission Instructions: 
+
+- Please see Ed
+
 ### Objectives:
 
 - **Integrate Distributed Computing and Cloud Storage**: Implement distributed computing solutions using tools like Dask, and align with cloud storage systems that support the scale and complexity of the project.
