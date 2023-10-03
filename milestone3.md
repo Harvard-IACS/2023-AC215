@@ -24,7 +24,7 @@ In this milestone, the focus is on developing an advanced training workflows and
 
 - **Utilize TensorFlow for Data Management**: Implement TF Data and TF Records to enhance data ingestion and management within machine learning components of the project.
 
-- **Develop Advanced Training Workflows**: Implement and optimize complex training workflows including experiment tracking (W&B), multi-GPU training, serverless training (Vertex AI), and Kubeflow. These should align with the machine learning components and training requirements of the project.
+- **Develop Advanced Training Workflows**: Implement and optimize complex training workflows including experiment tracking (W&B), multi-GPU training and serverless training (Vertex AI). These should align with the machine learning components and training requirements of the project.
 
 ### Deliverables:
 
