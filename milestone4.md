@@ -18,7 +18,8 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 ### Key dates:
 
-- Due date: Oct 24th
+- Repo due date: Tues, Oct 24th
+- Presentation: Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details)
 
 ### Objectives:
 
@@ -30,7 +31,7 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 - **Build a Hands-on Mega Pipeline App**: Design and create a scalable and comprehensive pipeline application that encapsulates all the elements of the project. This "Mega Pipeline" will serve as the unified interface for managing and executing various project components.
 
-- **Presenting a Technical Project**: Create a presentation that concisely covers what has been accomplished up to this point, and what the plan is for next steps. Here are some useful questions to think about when creating the presentation: Who is the audience (technical or non-technical), and what information can you expect them to know (and not know) going into the presentation? What’s the story that you are trying to tell? How are you planning to tell that story? What do you want the audience to take away from the presentation?
+- **Presenting a Technical Project**: Create a presentation that concisely covers what has been accomplished up to this point, and what the plan is for next steps. Here are some useful questions to think about when creating the presentation: Who is the audience (technical or non-technical), and what information can you expect them to know (and not know) going into the presentation? What’s the story that you are trying to tell? How are you planning to tell that story (e.g. slide structure, visuals, visuals, demo)? What do you want the audience to take away from the presentation?
 
 ### Deliverables:
 
@@ -42,4 +43,4 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 - **Mega Pipeline Application**: A fully-functional CLI based mega pipeline application that serves as the control center for the project, enabling the seamless execution of various components from data ingestion to model deployment. Should include detailed documentation and user guides.
 
-- **Presentation**: A 4-5 minute presentation that includes a brief overview of the project to help orient the audience, a walk-through of the work that has been completed, and a brief outline of next steps. The walk-through does not need to be a live demo (it can be a set of well-made, visually-pleasing slides), but it should make sure to showcase and highlight the various components that have been built. Be prepared for 3 additional minutes of questions at the end.
+- **Presentation**: A 4 minute presentation that includes a brief overview of the project to help orient the audience, a walk-through of the work that has been completed, and a brief outline of next steps. The walk-through does not need to be a live demo (it can be a set of well-made, visually-pleasing slides), but it should make sure to showcase and highlight the various components that have been built. Be prepared for 1 additional minute of questions at the end for a total of 5 minutes on stage.
