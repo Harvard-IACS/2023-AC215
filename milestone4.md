@@ -4,7 +4,7 @@ title: Milestone 4
 parent: Projects
 nav_order: 4
 ---
-### Milestone 4 (internal combustion engine): Midterm Presentation:  Optimization, Monitoring, and Deployment of Scalable Data Solutions
+### Milestone 4 (internal combustion engine): Midterm Presentation:  Optimization and Deployment of Scalable Data Solutions
 
 *Note: This milestone serves as the midterm presentation for AC215.*
 
