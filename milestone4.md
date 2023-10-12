@@ -16,8 +16,10 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 ### Key dates:
 
-- Repo due date: Tues, Oct 24th
 - Presentation: Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details)
+- Slides due : Noon EST - Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details)
+- Repo due date: Friday, Oct 27th 9PM EST
+
 
 ### Objectives:
 
