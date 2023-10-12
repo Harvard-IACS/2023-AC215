@@ -9,8 +9,7 @@ nav_order: 4
 *Note: This milestone serves as the midterm presentation for AC215.*
 
 
-
-The technical components of this milestone focus on the optimization and workflow orchestration aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced techniques and tools like TensorFlow Lite for model optimization and Kubeflow for machine learning workflows. The fourth milestone builds on the foundational work of the first three, driving the project towards completion and ensuring readiness for real-world application. This will provide students with exposure to industry-standard best practices and hands-on experience with cutting-edge tools and methodologies.
+The technical components of this milestone focus on the optimization and workflow orchestration aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced modeling techniques like distillation, quantization, and compression as well as tools like Kubeflow for machine learning workflows. The fourth milestone builds on the foundational work of the first three, driving the project towards completion and ensuring readiness for real-world application. This will provide students with exposure to industry-standard best practices and hands-on experience with cutting-edge tools and methodologies.
 
 Finally, the milestone serves as an opportunity to practice presenting information to a technical audience in an engaging and concise manner. 
 
@@ -23,7 +22,7 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 ### Objectives:
 
-- **Distillation/Quantization/Compression, TF lite**: Implement methods for model optimization such as distillation, quantization, and compression, using TensorFlow Lite. This will enable deployment in resource-constrained environments.
+- **Distillation/Quantization/Compression: Implement methods for model optimization such as distillation, quantization, and compression. This will enable deployment in resource-constrained environments.
 
 - **Kubeflow and Cloud Functions Integration**: Utilize Kubeflow for machine learning workflows and integrate cloud functions to automate and scale various processes within the project, aligning with cloud-native practices.
 
@@ -31,7 +30,7 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 ### Deliverables:
 
-- **Optimized Models**: Models that have been distilled, quantized, or compressed using TensorFlow Lite, complete with performance benchmarks and analysis.
+- **Optimized Models**: Models that have been distilled, quantized, or compressed, complete with performance benchmarks and analysis.
 
 - **Kubeflow & Cloud Functions Implementation**: Documentation and code showcasing the successful integration of Kubeflow for machine learning orchestration and cloud functions for process automation.
 
