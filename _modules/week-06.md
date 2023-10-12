@@ -8,4 +8,4 @@ Oct 10
 
 Oct 12 
 : Model performance monitoring, data drift, or other post release items to be aware of
-  : [Lecture 10](assets/lectures/AC215 Lecture 10 Placeholder.pdf)
+  : [Lecture 10](../assets/lectures/lecture10/05_model3_performance_monitoring.pdf)
