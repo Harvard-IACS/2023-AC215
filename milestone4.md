@@ -22,7 +22,7 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 ### Objectives:
 
-- **Distillation/Quantization/Compression: Implement methods for model optimization such as distillation, quantization, and compression. This will enable deployment in resource-constrained environments.
+- **Distillation/Quantization/Compression**: Implement methods for model optimization such as distillation, quantization, and compression. This will enable deployment in resource-constrained environments.
 
 - **Kubeflow and Cloud Functions Integration**: Utilize Kubeflow for machine learning workflows and integrate cloud functions to automate and scale various processes within the project, aligning with cloud-native practices.
 
