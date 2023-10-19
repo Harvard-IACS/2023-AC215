@@ -16,9 +16,13 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 ### Key dates:
 
 - Presentation: Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details)
-- Slides due : Noon EST - Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details)
+- Slides due : Noon EST - Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details, Please submit slides via Canvas )
 - Repo due date: Friday, Oct 27th 9PM EST
 
+### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone4)
+
+### Submission Instructions: 
+- Please submit slides via Canvas 
 
 ### Objectives:
 
