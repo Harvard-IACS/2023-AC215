@@ -11,7 +11,7 @@ Milestone 5 emphasizes the final stages of the project, focusing on the developm
 
 ### Key dates:
 
-- Due date: Nov 14th
+- Due date: Nov 20th
 
 ### Objectives:
 
