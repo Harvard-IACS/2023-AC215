@@ -8,7 +8,7 @@ Oct 31
 
 Nov 2 
 : APIs & Frontend
-  : [Lecture 14](assets/lectures/AC215 Lecture 14 Placeholder.pdf)
+  : [Lecture 14](../assets/lectures/lecture14/09_app_development_implement.pdf)
 
   
   
