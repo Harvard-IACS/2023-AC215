@@ -316,7 +316,7 @@
   },"45": {
     "doc": "Schedule and Calendar",
     "title": "Week 10 - App Development",
-    "content": "Nov 7 APIs &amp; Frontend Lecture 15 Nov 9 Deployment Lecture 16 ",
+    "content": "Nov 7 Deployment Lecture 15 Nov 9 Scaling: Kubernetes Lecture 16 ",
     "url": "/schedule/#week-10-app-development",
     
     "relUrl": "/schedule/#week-10-app-development"
