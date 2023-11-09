@@ -8,6 +8,6 @@ Nov 7
 
 Nov 9
 : Scaling: Kubernetes	
-  : [Lecture 16](assets/lectures/AC215 Lecture 16 Placeholder.pdf)
+  : [Lecture 16](../assets/lectures/lecture16/10_operations_scaling.pdf)
 
   
