@@ -13,6 +13,9 @@ Milestone 5 emphasizes the final stages of the project, focusing on the developm
 
 - Due date: Nov 20th
 
+
+### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone5)
+
 ### Objectives:
 
 - **App Design, Setup, and Code Organization**: 
