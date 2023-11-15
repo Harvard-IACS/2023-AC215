@@ -22,7 +22,7 @@ Design the overall architecture of the application, including its user interface
 Develop robust APIs that facilitate communication between the front end and back end of the application. Implement a responsive and user-friendly front-end interface that leverages these APIs to create a seamless user experience.
 
 - **Deployment Strategy**: 
-Define and implement a comprehensive deployment strategy that ensures the application is readily available to end users. This includes setting up continuous integration and continuous deployment (CI/CD) pipelines and considering factors like security, performance, and reliability.
+Utilize Ansible to create, provision, and deploy our frontend and backend to GCP in an automated fashion.
 
 ### Deliverables:
 
