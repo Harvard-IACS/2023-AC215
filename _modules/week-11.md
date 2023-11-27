@@ -1,5 +1,5 @@
 ---
-title: Week 11 - Scaling & Deployment
+title: Week 11 - Frontend
 ---
 
 Nov 14

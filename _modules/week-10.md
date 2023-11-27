@@ -1,5 +1,5 @@
 ---
-title: Week 10 - App Development 
+title: Week 10 - Deployment & Scaling
 ---
 
 Nov 7
