@@ -4,7 +4,7 @@ title: Week 11 - Frontend
 
 Nov 14
 : React Session (Online)
-  : [Lecture 17](assets/lectures/AC215 Lecture 17 Placeholder.pdf)
+  : [Lecture 17](https://github.com/dlops-io/app-building-crashcourse)
 
 Nov 16
 : Projects 
