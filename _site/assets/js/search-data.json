@@ -315,18 +315,18 @@
     "relUrl": "/schedule/#week-9-app-development"
   },"45": {
     "doc": "Schedule and Calendar",
-    "title": "Week 10 - App Development",
+    "title": "Week 10 - Deployment &amp; Scaling",
     "content": "Nov 7 Deployment Lecture 15 Nov 9 Scaling: Kubernetes Lecture 16 ",
-    "url": "/schedule/#week-10-app-development",
+    "url": "/schedule/#week-10-deployment-scaling",
     
-    "relUrl": "/schedule/#week-10-app-development"
+    "relUrl": "/schedule/#week-10-deployment-scaling"
   },"46": {
     "doc": "Schedule and Calendar",
-    "title": "Week 11 - Scaling &amp; Deployment",
+    "title": "Week 11 - Frontend",
     "content": "Nov 14 React Session (Online) Lecture 17 Nov 16 Projects ",
-    "url": "/schedule/#week-11-scaling-deployment",
+    "url": "/schedule/#week-11-frontend",
     
-    "relUrl": "/schedule/#week-11-scaling-deployment"
+    "relUrl": "/schedule/#week-11-frontend"
   },"47": {
     "doc": "Schedule and Calendar",
     "title": "Week 12 - Thanks giving",
@@ -336,11 +336,11 @@
     "relUrl": "/schedule/#week-12-thanks-giving"
   },"48": {
     "doc": "Schedule and Calendar",
-    "title": "Week 13 - Scaling &amp; Deployment",
-    "content": "Nov 28 Scaling: Kubernetes II Lecture 18 Nov 30 GitHub Actions Lecture 19 ",
-    "url": "/schedule/#week-13-scaling-deployment",
+    "title": "Week 13 - Automation",
+    "content": "Nov 28 Automation: GitHub Actions Lecture 18 Nov 30 Projects ",
+    "url": "/schedule/#week-13-automation",
     
-    "relUrl": "/schedule/#week-13-scaling-deployment"
+    "relUrl": "/schedule/#week-13-automation"
   },"49": {
     "doc": "Schedule and Calendar",
     "title": "Week 14 -  Projects",
@@ -351,7 +351,7 @@
   },"50": {
     "doc": "Schedule and Calendar",
     "title": "Week 15 - Presentations",
-    "content": "Dec 12 Presentations M 6 due Setup &amp; Installation . Refer to the setup and installtion document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
+    "content": "Dec 12 Final Project Submission M 6 due Setup &amp; Installation . Refer to the setup and installtion document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/schedule/#week-15-presentations",
     
     "relUrl": "/schedule/#week-15-presentations"
