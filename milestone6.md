@@ -17,13 +17,25 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 - Due date: Dec 12th
  
 
+### [Template Repository](https://github.com/ac2152023/ac2152023_template/)
+
+### Blog Post Instructions on [ED](https://edstem.org/us/courses/42775/discussion/3947692)
+
+### GitHub Repo: We will be retrieving main branch for final project.
+<br/>
+
+**Remember to submit Self and Peer Review form**
+
+
 ### Objectives:
 
 - **Scaling with Kubernetes**: Continue to refine and expand the Kubernetes-based scaling solution. Ensure that the application can handle real-world scenarios and peak loads efficiently.
 
 - **Deployment with Ansible**: Implement an automated deployment solution using Ansible. This will enable streamlined deployment processes, configuration management, and ensure consistency across different environments.
 
-- **Presentation of the Project**: Prepare and deliver a comprehensive presentation that highlights the project's objectives, design, implementation, challenges, and achievements. 
+- **Presentation of the Project**: Prepare and deliver a comprehensive video presentation that highlights the project's objectives, design, implementation, challenges, and achievements. 
+
+- **Short video demo of the Project**: Prepare a 1.5min-2min short demo of the application highlighting any salient features.
 
 - **GitHub Repository**: Organize and publish all code, documentation, and relevant assets in a GitHub repository, ensuring that it's well-structured and includes clear instructions for anyone who wants to replicate or learn from the project.
 
@@ -35,8 +47,33 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 - **Kubernetes Scaling Solution**: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios.
 
-- **Project Presentation**: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project, suitable for both technical and non-technical audiences.
+- **Project Presentation Video**: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project, suitable for both technical and non-technical audiences.
+
+- **Short video demo of the Project**: Submit a short demo ~ 1.5-2 minutes highlighting salient features.
 
 - **GitHub Repository**: A well-organized GitHub repository containing all the project's code, documentation, related resources, and a professional README.
 
 - **Medium Post**: A published Medium post that encapsulates the essence of the project, written in a style that appeals to a broad audience.
+
+### Video Guidelines - Two videos - (A) 1.5-2 mins and (B) 5-6 mins 
+
+General Instructions:
+
+- Quality Check: Ensure that the audio and video quality are clear and consistent throughout your submission. This includes checking for any background noise or interruptions that might affect the clarity of your presentation.
+
+- Duration Adherence: Be mindful of the time limits for each video segment. Staying within the specified duration is crucial for maintaining the viewer's attention and ensuring that all content is concise and relevant.
+
+- Collaboration Coordination: If working in a team, coordinate with your partners to ensure uniformity in audio levels, presentation style, and content delivery.
+
+- No Speed Alteration: Do not speed up the video. The demo should be in real-time to ensure clear understanding and authenticity.
+
+**Video A - Demo (1.5 - 2 minutes)**
+
+Demo: Demo of your app and it's salient features
+
+
+**Video B - Presentation (5 - 6 minutes)** - Similar to midterm presentations
+
+- Problem Motivation: Begin by providing a clear motivation for the problem you are addressing. Explain why this problem is significant and merits attention.
+
+- Technical Architecture Description: Describe the technical architecture of your project. Ensure that the explanation is detailed yet accessible to viewers with varying levels of technical knowledge.
