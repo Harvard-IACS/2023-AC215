@@ -24,7 +24,7 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 ### GitHub Repo: We will be retrieving main branch for final project.
 <br/>
 
-**Remember to submit Self and Peer Review form**
+**Please remember to submit Self and Peer Review form**
 
 
 ### Objectives:
@@ -35,7 +35,6 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 - **Presentation of the Project**: Prepare and deliver a comprehensive video presentation that highlights the project's objectives, design, implementation, challenges, and achievements. 
 
-- **Short video demo of the Project**: Prepare a 1.5min-2min short demo of the application highlighting any salient features.
 
 - **GitHub Repository**: Organize and publish all code, documentation, and relevant assets in a GitHub repository, ensuring that it's well-structured and includes clear instructions for anyone who wants to replicate or learn from the project.
 
@@ -47,17 +46,36 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 - **Kubernetes Scaling Solution**: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios.
 
-- **Project Presentation Video**: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project, suitable for both technical and non-technical audiences.
-
-- **Short video demo of the Project**: Submit a short demo ~ 1.5-2 minutes highlighting salient features.
+- **Project Presentation Video**: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project.
 
 - **GitHub Repository**: A well-organized GitHub repository containing all the project's code, documentation, related resources, and a professional README.
 
 - **Medium Post**: A published Medium post that encapsulates the essence of the project, written in a style that appeals to a broad audience.
 
-### Video Guidelines - Two videos - (A) 1.5-2 mins and (B) 5-6 mins 
+### Video Guidelines - One video - (less than 5 mins)
 
-General Instructions:
+- Creating an effective video presentation for your final presentation in AC215 involves concisely conveying the importance, application, challenges, and demonstration of your product. 
+Here’s a structured approach to crafting your presentation:
+
+- **Start with the “Why”** - Exciting Your Audience:
+Begin by explaining the significance of your product. What problem does it solve, and why is this problem important to address? Highlight the unique value proposition of your product. What makes it stand out in the field of machine learning operations? Use engaging language to create a sense of urgency or importance. This could include statistics, a brief story, or a surprising fact that underscores the need for your product.
+
+- **User Case Scenario** - Demonstrating Practical Application - Describe a typical user and their needs. Provide a clear and relatable user case scenario. 
+Explain how your product meets these needs. Be specific about the functionalities and benefits.
+This part should make it easy for your audience to visualize the product in use and understand its practical application in a real-world context.
+
+- **Challenges and Scaling** - Addressing the Technical Aspects -
+Discuss the technical and operational challenges you faced while developing the product.
+Explain the steps taken to overcome these challenges, especially in terms of scaling and usability. This could include optimizing algorithms, ensuring data security, or improving user interface. Highlight any innovative solutions or approaches you employed, giving insight into the complexity and sophistication of your work.
+
+- **Demo the Product** - Bringing it to Life:
+Prepare a brief but effective demonstration of your product. This could be a live demo, or a series of screenshots. Focus on key features and functionalities that you want to showcase.
+Ensure that the demo is understandable to your audience, regardless of their technical background. Avoid getting too technical; instead, focus on showing how the product works and its benefits.
+
+#### Additional Tips:
+- Keep it Concise: It should be short and to the point, typically no longer than 5 minutes (shorter is acceptable).
+
+- Practice: Rehearse your presentation to ensure smooth delivery and timing.
 
 - Quality Check: Ensure that the audio and video quality are clear and consistent throughout your submission. This includes checking for any background noise or interruptions that might affect the clarity of your presentation.
 
@@ -67,13 +85,3 @@ General Instructions:
 
 - No Speed Alteration: Do not speed up the video. The demo should be in real-time to ensure clear understanding and authenticity.
 
-**Video A - Demo (1.5 - 2 minutes)**
-
-Demo: Demo of your app and it's salient features
-
-
-**Video B - Presentation (5 - 6 minutes)** - Similar to midterm presentations
-
-- Problem Motivation: Begin by providing a clear motivation for the problem you are addressing. Explain why this problem is significant and merits attention.
-
-- Technical Architecture Description: Describe the technical architecture of your project. Ensure that the explanation is detailed yet accessible to viewers with varying levels of technical knowledge.
