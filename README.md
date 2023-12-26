@@ -8,6 +8,8 @@ seo:
   name: AC215, CSCIE-115
 ---
 
+##  <a href="https://medium.com/institute-for-applied-computational-science/ac215-fall2023-projects/home/" target="_blank">Final Projects Medium Page (12/12/2023)</a>
+---
 
 # **Productionizing AI (MLOps)**: AC215, CSCIE-115.
 {:.no_toc}
